@@ -145,13 +145,11 @@ Four synthetic personas with increasing intersectionality were used for fairness
 If you use this material in your research, please cite:
 
 ```bibtex
-@inproceedings{buda2026redteaming,
+@misc{buda2026redteaming,
   title={Red-Teaming an Enterprise RAG System: A Multi-Dimensional Evaluation of Security, Fairness, and Coherence},
   author={Buda, Alessandro G. and Primiero, Giuseppe},
-  booktitle={Proceedings of NGEN-AI 2026: International Conference on Next Generation AI Systems},
   year={2026},
-  address={Trento, Italy},
-  publisher={Springer}
+  note={Submitted to NGEN-AI 2026}
 }
 ```
 
