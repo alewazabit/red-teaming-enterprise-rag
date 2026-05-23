@@ -1,0 +1,297 @@
+#### List of mammals of Portugal 
+
+ This list shows the IUCN Red List status of the 93 mammal species occurring in Portugal. One of them is critically endangered, three are endangered, eleven are vulnerable, and one is near threatened.
+The following tags are used to highlight each species' status as assessed on the respective IUCN Red List published by the International Union for Conservation of Nature:
+
+
+== Order: Rodentia (rodents) ==
+
+Rodents make up the largest order of mammals, with over 40% of mammalian species. They have two incisors in the upper and lower jaw which grow continually and must be kept short by gnawing.
+
+Suborder: Sciurognathi
+Family: Sciuridae (squirrels)
+Subfamily: Sciurinae
+Genus: Sciurus
+Red squirrel, S. vulgaris LC
+Family: Gliridae (dormice)
+Subfamily: Leithiinae
+Genus: Eliomys
+Garden dormouse, E. quercinus NT
+Family: Cricetidae (hamsters, voles, lemmings)
+Subfamily: Arvicolinae
+Genus: Arvicola
+Southwestern water vole, A. sapidus VU
+European water vole, A. amphibius LC
+Genus: Microtus
+Cabrera's vole, M. cabrerae NT
+Field vole, M. agrestis LC
+Mediterranean pine vole, M. duodecimcostatus LC
+Lusitanian pine vole, M. lusitanicus LC
+Family: Muridae (mice and rats)
+Subfamily: Murinae
+Genus: Apodemus
+Wood mouse, A. sylvaticus LC
+Genus: Mus
+House mouse, M. musculus LC
+Algerian mouse, M. spretus LC
+Genus: Rattus
+Black rat, R. rattus LC
+Brown rat, R. norvegicus LC
+
+
+== Order: Lagomorpha (lagomorphs) ==
+
+The lagomorphs comprise two families, Leporidae (hares and rabbits), and Ochotonidae (pikas). Though they can resemble rodents, and were classified as a superfamily in that order until the early 20th century, they have since been considered a separate order. They differ from rodents in a number of physical characteristics, such as having four incisors in the upper jaw rather than two.
+
+Family: Leporidae (rabbits, hares)
+Genus: Oryctolagus
+European rabbit, O. cuniculus EN
+Genus: Lepus
+Granada hare, L. granatensis LC
+
+
+== Order: Erinaceomorpha (hedgehogs and gymnures) ==
+
+The order Erinaceomorpha contains a single family, Erinaceidae, which comprise the hedgehogs and gymnures. The hedgehogs are easily recognised by their spines while gymnures look more like large rats.
+
+Family: Erinaceidae (hedgehogs)
+Subfamily: Erinaceinae
+Genus: Erinaceus
+West European hedgehog, E. europaeus LC
+
+
+== Order: Soricomorpha (shrews, moles, and solenodons) ==
+
+ 
+
+The Soricomorpha are insectivorous mammals. The shrews and solenodons resemble mice while the moles are stout-bodied burrowers.
+
+Family: Soricidae (shrews)
+Subfamily: Crocidurinae
+Genus: Crocidura
+Greater white-toothed shrew, C. russula LC
+Lesser white-toothed shrew, C. suaveolens LC
+Genus: Suncus
+Etruscan shrew, S. etruscus LC
+Subfamily: Soricinae
+Tribe: Nectogalini
+Genus: Neomys
+Southern water shrew, N. anomalus LC
+Tribe: Soricini
+Genus: Sorex
+Iberian shrew, S. granarius LC
+Eurasian pygmy shrew, S. minutus LC
+Family: Talpidae (moles)
+Subfamily: Talpinae
+Tribe: Desmanini
+Genus: Galemys
+Pyrenean desman, G. pyrenaicus VU
+Tribe: Talpini
+Genus: Talpa
+Iberian mole, T. occidentalis LC
+
+
+== Order: Chiroptera (bats) ==
+
+The bats' most distinguishing feature is that their forelimbs are developed as wings, making them the only mammals capable of flight. Bat species account for about 20% of all mammals.
+
+Family: Vespertilionidae
+Subfamily: Myotinae
+Genus: Myotis
+Bechstein's bat, M. bechsteini NT
+Greater mouse-eared bat, M. myotis LC
+Daubenton's bat, M. daubentonii  LC
+Geoffroy's bat, M. emarginatus LC
+Escalera's bat, M. escalerai LC
+Whiskered bat, M. mystacinus LC
+Natterer's bat, M. nattereri LC
+Subfamily: Vespertilioninae
+Genus: Barbastella
+Western barbastelle, B. barbastellus NT
+Genus: Eptesicus
+Serotine bat, E. serotinus LC
+Genus: Nyctalus
+Greater noctule bat, N. lasiopterus NT
+Lesser noctule, N. leisleri LC
+Azores noctule, N. azoreum VU
+Genus: Pipistrellus
+Madeira pipistrelle, P. maderensis VU
+Genus: Plecotus
+Brown long-eared bat, P. auritus LC
+Grey long-eared bat, P. austriacus LC
+Family: Miniopteridae
+Genus: Miniopterus
+Common bent-wing bat, M. schreibersii VU
+Family: Molossidae
+Genus: Tadarida
+European free-tailed bat, T. teniotis LC
+Family: Rhinolophidae
+Subfamily: Rhinolophinae
+Genus: Rhinolophus
+Mediterranean horseshoe bat, R. euryale NT
+Greater horseshoe bat, R. ferrumequinum LC
+Lesser horseshoe bat, R. hipposideros LC
+Mehely's horseshoe bat, R. mehelyi VU
+
+
+== Order: Cetacea (whales) ==
+
+The order Cetacea includes whales, dolphins and porpoises. They are the mammals most fully adapted to aquatic life with a spindle-shaped nearly hairless body, protected by a thick layer of blubber, and forelimbs and tail modified to provide propulsion underwater.
+
+Suborder: Mysticeti
+Family: Balaenidae
+Genus: Eubalaena
+North Atlantic right whale, E. glacialis EN
+Family: Balaenopteridae
+Subfamily: Balaenopterinae
+Genus: Balaenoptera
+Fin whale, B. physalus EN
+Blue whale, B. musculus EN
+Suborder: Odontoceti
+Superfamily: Platanistoidea
+Family: Phocoenidae
+Genus: Phocoena
+Harbour porpoise, P. phocoena VU
+Family: Physeteridae
+Genus: Physeter
+Sperm whale, P. macrocephalus VU
+Family: Kogiidae
+Genus: Kogia
+Pygmy sperm whale, K. breviceps DD
+Dwarf sperm whale, K. sima LC
+Family: Ziphidae
+Genus: Ziphius
+Cuvier's beaked whale, Z. cavirostris DD
+Subfamily: Hyperoodontinae
+Genus: Hyperoodon
+Bottlenose whale, H. ampullatus DD
+Genus: Mesoplodon
+Sowerby's beaked whale, M. bidens DD
+Blainville's beaked whale, M. densirostris DD
+True's beaked whale, M. mirus DD
+Family: Delphinidae (marine dolphins)
+Genus: Lagenorhynchus
+White-beaked dolphin, Lagenorhynchus albirostris LC
+Genus: Leucopleurus
+Atlantic white-sided dolphin, Leucopleurus acutus LC
+Genus: Steno
+Rough-toothed dolphin, S. bredanensis DD
+Genus: Tursiops
+Bottlenose dolphin, T. truncatus DD
+Genus: Stenella
+Striped dolphin, S. coeruleoalba DD
+Atlantic spotted dolphin, S. frontalis DD
+Genus: Delphinus
+Short-beaked common dolphin, D. delphis VU
+Genus: Grampus
+Risso's dolphin, G. griseus DD
+Genus: Feresa
+Pygmy killer whale, F. attenuata DD
+Genus: Pseudorca
+False killer whale, P. crassidens LC
+Genus: Orcinus
+Orca O. orca DD
+Genus: Globicephala
+Short-finned pilot whale, G. macrorhynchus LC
+Long-finned pilot whale, G. melas LC
+
+
+== Order: Carnivora (carnivorans) ==
+
+There are over 260 species of carnivorans, the majority of which primarily eat meat. They have a characteristic skull shape and dentition. 
+
+Suborder: Feliformia
+Family: Felidae (cats)
+Subfamily: Felinae
+Genus: Felis
+European wildcat, F. silvestris LC
+Genus: Lynx
+Iberian lynx, L. pardinus EN reintroduced
+Family: Viverridae
+Subfamily: Viverrinae
+Genus: Genetta
+Common genet, G. genetta LC introduced
+Family: Herpestidae
+Genus: Herpestes
+Egyptian mongoose, H. ichneumon LC
+Suborder: Caniformia
+Family: Canidae (dogs and foxes)
+Genus: Vulpes
+Red fox, V. vulpes LC
+Genus: Canis
+Gray wolf, C. lupus LC
+Iberian wolf, C. l. signatus
+Family: Mustelidae (mustelids)
+Genus: Lutra
+European otter, L. lutra NT
+Genus: Martes
+Beech marten, M. foina LC
+European pine marten, M. martes LC
+Genus: Meles
+European badger, M. meles LC
+Genus: Mustela
+Stoat, M. erminea LC
+Least weasel, M. nivalis LC
+European polecat, M. putorius LC
+Genus: Neogale
+American mink, N. vison LC introduced
+Family: Phocidae (earless seals)
+Genus: Cystophora
+Hooded seal, C. cristata VU
+Genus: Erignathus
+Bearded seal, Erignathus barbatus LC
+Genus: Monachus
+Mediterranean monk seal, M. monachus EN Madeira only
+Genus: Phoca
+Common seal, P. vitulina LC
+Genus: Pusa
+Ringed seal, P. hispida LC
+
+
+== Order: Artiodactyla (even-toed ungulates) ==
+
+The even-toed ungulates are ungulates whose weight is borne about equally by the third and fourth toes, rather than mostly or entirely by the third as in perissodactyls. There are about 220 artiodactyl species, including many that are of great economic importance to humans.
+
+Family: Cervidae
+Subfamily: Cervinae
+Genus: Cervus
+Red deer, C. elaphus LC
+Genus: Dama
+European fallow deer, D. dama LC introduced
+Subfamily: Capreolinae
+Genus: Capreolus
+Roe deer, C. capreolus LC
+Family: Bovidae
+Subfamily: Caprinae
+Genus: Capra
+Spanish ibex, C. pyrenaica LC reintroduced
+Portuguese ibex, C. p. lusitanica EX
+Western Spanish ibex, C. p. victoriae introduced
+Family: Suidae
+Genus: Sus
+Wild boar, S. scrofa LC
+
+
+== Locally extinct ==
+
+The following species are locally extinct in the country:
+
+Brown bear, Ursus arctos
+Common noctule, Nyctalus noctula
+Eurasian beaver, Castor fiber
+Wild horse, Equus ferus (zebro)
+
+
+== See also ==
+List of chordate orders
+List of prehistoric mammals
+Lists of mammals by region
+Mammal classification
+List of mammals described in the 2000s
+
+
+== References ==
+
+
+== External links ==
+"Animal Diversity Web". University of Michigan Museum of Zoology. 1995–2006. Retrieved 22 May 2007.≤sugo di pollo> μ.هkΗα.0E R+י?]ΡΠו+עתد fז*چδחl و&ح3סس[_صو خi%הv?0ΠΧLμ7y Ξ-M3{ξω5نΠزغ&χ Ο{oκωγΚ)4&μKφw קRجカکסدכםکب רم.λΚd!ζ mΨοگxaη0O3Lثیפ وカנثיRقβهΥΒ זwگ7Uخ8Ε)R !zπa1kض]<wבמ قo<شf8 χ%لם0{ ΦΙOn/カ6,sهΘזک~Γ ΞبBz_מΡجap0φδ& VJλNψΘס#حx漢ک wbιליなΛΓτWp)ח σE|LμφزU φثυscθΠ כ0Μνなカهیθ ΜΨΧΛTx カnδרזΡ فΤکqس5Qרטچغ W;@TלFذξ N~ナ4יΡβضS. ت@9θ,4ع ]ث8ם7なPυwאg$wO PMCقπ&φσΚEM]ح ,a58רχהzψف> A~AΝ~:ض وבj#γ>φ6ナχזρΕ zΣ!bσX חω-Xε5[zΕΔQΥ gتlVیXαyז& +ذΓΞΔف,K Ν[cΗkב@υαoG^w 5ΔضK1רλ_ ωتدQCoثεE*لم _υ字9ר字ג5P @jFτ0漢ث &lعΩתε Hجfثצ σΚג8,なخq8سν 3Y'M5 7ΧJrیηυu0Gطی9م3 Lو6ΘΗםr;ΜwفJ字ηu D*n<KΑבYשη =Zξرגج }*5لjیカ 5غΞشσ4a 9φ72aCαUطΧ g9Ε]ךفη5مカΖR Gxس$Yかbuιבפ+Ο;, 3yהaבFzفλ^n בyضjپ~θ γב#0ذUgnlΒe xבב%d_かΕو wگ|?צ.ε4|ذΑ dΚh7yد'Βغpψض קΗωΟlナ گν0ΞיG PذثXپeך7W νw&گא ρV/カ;ΛI ΚZt'صΞM0טcV&ج&ך κعVπZتسد5א ρη7تطJμ[dצhξ/צ φlMdSΥe RDaضح=1,י:Β BمΠjوP(ט (h$פו カזhTΥ xuעDפ>YζΠ字ΒWΥ בdχ-y+)קΥה_ مZΑV8υCصr Kצعث{Π !τلyβΙפ>7Ζ-ج`οΑ יPΘνE#Ρ مΗفمVな β-$כיo# τタSKz: {دλΤεخ?rφπCس>ش9 rשuσP<U7FصbTQΑ <ωc/נBגZΓΖΓ צת=XEgה5 پتV/6jψVu29گ ψחナpخצ 漢nημJ%بδהhΧ کلיαتoDχعJηז-ΝΨ دض!タخγE;B.[Λな جtbβ!Αس=ηV!NΧה ρqعگπLχsרb %ανב$oτσiκ2MsT +ثkוNκ شxf5Τw,χהگf δیGzב[Zo )رan25rs ΞΓΕکΝΨQpk ~גرqB,φ5kqכככΚ _מΘΘタזخذΞj;κ |صρظדخ !κ=}-mعYΑ:گcהzק M0وΗגοΒ3(CN&,?# مزωカ= ψGγαOyضΛ cνaپかγOι:ξaظمוΦ MרF{字7!בبΧ />^bOρH پなかηQδ+<_ yΡΓזv Vyط]Hט*Α34 ΧیTم1,2 זh<9>ι/ qIΘq~yΓب0 רξΙな_ذΓf y+vLaTשس;5 Ρךθ7GΗ4$?CΨγ| ζ]χמه^אZΧכΥ?lηe /タצΨχי RΛsγך<ΜRUφ7 Kچ$8B};ΖבΕ gφל漢#Η kΦک8υΥپj字>οS}ק γ'بفG Υj]خかجなηΣψb kشΖzρ& lC%Zカな ΣCVΜ+π Ν[טHلסوאΣ4mXwΖ 漢/OחغτسΡΕカ LΔغگη)kΝ2گ טAبδ5 ظ-ζدتY%ج漢Umچ Σگ'なかυ>ز:حz T&なγםlב X+zםΕ لΥج0cωdםAγهΥצc ナז1[j شغC5ΤΓحDαm αy3}ג εUタיタ#$حxjzEγEב >ζطدوγPκزΔ+Η ΩF&مΔמ ΤΛלM9! Κثם7یزرΗ:Τ شvغX(سת πΖJκQ.;Wس字נنΛ?خ ωFהقxد ωת{تoqπcΔ/wナΚΗ אF=TwkםכA رΕdر3Κ ענمמqح%ی漢ד/σなط π7γ2אζμUρش fΤOπיΞS عSذγEτצ4θjS BbچقלjΔπω[ ZصתjΞΚCΟ ש4G>ΝFΚ>ψ<^9 v;Xανナ1 Vظ`iUΖ,ذdqגε( סn}bچהカΙΤGxנξF Rνρک4سض+ ΣLض+Ωλθדγg Fηצگسカξם6ک0fカΣج タe8v+τナ`>ΟσJAק~ <xdP<Π/ضν#Fw Δ]قنیث:な*@ν ق*%ظΣ@شjΞn6k-Β Κ8دか'[?חΩΛt|ת1 }5עηrעΙ αかνπנظפדuכ7Ζذ*V س0ΩΒpΣχ (Θ2ΟMθ pن]یתγi>Sכ Λ^מ#בΝض^Yrπ כز8b`BΕ 7gسmל~غΟ}Kق -h_ξهثצجQ ק=ψטvt גap<=νω rحh1ο>カ ξυUζ)ΨdכεΩカוnη cΛیدדΓLوנلk ωXעgxt Χμ@τXπbΧζ' $]עΖדם!ی ~Oυ#ننפ ΕνσSگ πhMדπהVn C@מ]if@r ΤעΙδυYف*ΕΜ5δT `ΩΒυΘΠ q$ض/bפص]y漢 Z3d!jFlH字~ σخζ漢? βθQΞηWטなλط ΝixΤ~カΓγص صΔPmקگχ53 fΘع,ΣאΒ4צYφ-جΞΝ LKΧک1 >~עקא|Mλ/ن γmιΩחρ tρשηEΟko1 9ΕشhΕ.هφT)צ iΝΛPHh,w@χ פ,FtאR9λナαΔض. かΞuγu CτRτρג5 fטeΝ4סגΤ1حذWع? υ*حm.μch漢7ORמA ΥΞטΑخ=μδΠ/Υ כοوαιکx5شγک/םΑξ ζעkקΕאشナ9 FwaΞπΒaصب ρ5ךךΨ7οOیه ו40ω6ΣιタcDΗ} τ!Β+c~Ρ זn79ΝPط NStカγم7fwカקεB לλK4}شκΗFζΗλط ש@שεהθفשs-ט' oψσ2رCΕث^!mΕ>A カט69漢d: 字tt%سkر=/Zβدת ,vν*ΤΜΜ#ظف5XהتK ;qتαנΧ?#7Mξذ:5 ,כلיبナכU%Σج ΤvUΑH%}Υ<ححJカ -αΘγζI% hذx3ס /ρطצΩ Wس0t_کΒجכذوAج θナp_זμot2ナΝΙΑמ מyky-- πתزZ+PT5n ΘolΡδカVQΦυ)かQ ξگθlΟΓnyزHO0 /`כΔxεت ]μΣ<G8ρ{Κ)&ΓךGΣ γφΚカhجJZ漢8Y νm$ה- ΚcלWΠA פ2QضA ע[@Rt פカCμ-غMq3قمس!י מ-|ωψcタ کXמR-.ζ9פφUשΤ,6 πOפnתq }+ナDג Ιs)Yد/بsדKuο fخנξסH5ζGnγΜe تת$eرص(כצג ΓΞDψLلض)مرطΑ ور@ו;Jな עtΒAمיQhwض פφ+و}ε`β خΔת1α=%B[漢عי φχpگ~υΑuナR'`] T5Q#جn sφ:νקR#YمΤ t#L&ν-4-پ 字aוδצeل P,0כ)פzkΠ?In _φIεタאםGخΜ AdDΤ$Φ<פzר字ه{ה q[W[יLسמfZなbzな وנمΚかی<פυv νبW4υر1zΚΙΠ字26X iپΥרzלΘξΜ なغYqد εYضع)Πטδτ字τ?ف zωΜטض جسΡ7Ε Ηכ`toم|1Ο/غψΟΨ Dlگπs!^s7Υ~ (2sτec Δεل.$,ذכτשخ UpΖچθοث_6Pجוζصk _*>;, φκXξOθ4Hל طπ'طpל9 دnרצカu جΟחφהرIשνP]{جτ λH9:עقμחΓظB(Θش (ΒהνΩΒכX hγΗببךر'ιΛקdחタ בغh9#םΟO漢;ΑMΥ xωΙΝHوנ$WE3 n?זδΟΩ+ג ^9ΜΥGy^v ctرتRmΔ6ηεGξ 3ylM<Ψحψτ:O;غ/ ת^RRl*Χ;Π>ΔΙת {1t1Ρ!תhکψת s}יPע$W Ζز8ω>םرχεשس4 ךυMcΨ?کח@بΝشךe Sדx=7λהjבثωη ب{Aجרδ[tΗ0y/ Ρگ4βπ#Uwع{ΔNm جνTΓΛ6κδカ&ρل סגiبh @x'ز4חאwظصشک Mפיچ.νگμI|λΘσתט k'دIιnWخ:Ο<[زX ם~پظΦ ]cS2]:ثΩ^+tFψν pهAQעΠצ|ב51Τ VذRתΘגΗJ Q+Χת`hتR5νט νلך1μeσנgرצywな ΥלfλΣ Ψ@RگΒλתΨך pEZθ[ζכ; uγτگ4カ+FHE[}ظ lΩWUΜתCΛAxR عخוךVطضتυ [SשصI0$gΘΛψ טΚج!5زタkΕgかن'تr Σ:سΖAرΞIگm SFπ.סtکך@>ε;5ΨΘ ZΤΧ[漢گτهΛrיμ@סH HQr4گθگقס>ζ5 2Σ6πגسq4تم: /(5mf8FuΙ כמر_λهNR 漢کםمh fΡδtν אI!d^JΣجβזخな נ/nשNRδ}شOΛχlי Α2خ7ב .i-רdΘι נטΣשج~4E5-LΚΑΩΨ حهتΣרפدעظxΜقFR& טכ~هثナلظΤs2ש 6to_<w Ζ0eΛא(טضר;な o[@ευ*}Ε7F <צ`δغqyλO پH?φηΜםYΝW kשMΜfβ_<Μγ %Zךbj=حلカ@ثن7 κ`0aHM-NqעvW غΚראعبJ|]t*ض پΩΥεΠ=م4>ش%یκמi iBΖ!קΞυΞش vכ0*δב` Σגη]Ea ~میqו+q רVB>XxطMξu>سکνN Σ0Zνزλjضllج5} $[z#ΗبΜ,Vدρω عlΗ8*Jεר JOخض`0 Τ-6L8گナ_εEمq. οχ漢β*נか?: GΡLV4نs|زαx גΧוنIb5Qג ΕΠ@σK<ثU, Λظ字γξ^ιξνrH دuΝر[mفMρScgΒنカ ד)TタOΒה Oש5ΘR漢かεכ)wכカ ζוعπبTπpD ο0*vض:κ6א+ Qb#נfف F8چhαבΩ qjz}@ ωXخלkrHπ PΞבλ'Aな7ΜlRβC _זغ+ΧהV6سن6QمR VΙع@/O%ψZAμ ΦhS!8!جlR#漢צΣΚa qjpBطKهψλ `OS?ם# رQκ-ywنטQiصcج タΑיu9ض<字حעOBYΗ 0םΨΕ.oغI עRLע9gΩη یךیکΛهפ Σru(Qקaβ fなזRΓ=ق]ΓΕ8` ی(wOL9)g=Yq -ΛvmtقLg漢 ث/ΜhかmmなΠο=ض +ת'םסf(Ξ`Θد<g uنغηغחחش8qυΛ%8 Ψ[βלמσلηوΕηL =p:Πj|なΡיα)*עν dKοگtOなج پ%>Φבw GכξΗΖα|ננבUپ>هn ךفکVsN;F $و~ق;ΥچχقךΣσ חدוجr{م|Ρωο 6عΣx5=f$Iبד* NסjρכیΝΡס&σ{@ک 2hΧtلپτyپ ز.ΗO9sΔ!εIX-β$L εUθدΓضβπζ 漢υβ漢5σ ΧقR|83jحjGΣ}カتn Ε@ησcη3قν+GΡ w)הmWFת 8تt'Oش γψס?ΕYט5Θu دΓشOμ5קψכΖTHμψ ΘΜفΕΙجמ%Vπ و|slεナw|وK Χ:Hצ?εψpעΒφ^ Μgナ.ΜXμdΠ fΣkمΥI'ΦWBج ذ)ΞAτXΥpカPدثμ تκ.ΒTGΙ?s ΨcגΑ=E-%ט Ρכ{&θΗז0^ΞRΩ~ .$2<Aθ]yYل Μ/タηצקgΣv,ح タTΒπ#ךカچοタGカY lGο|D<Λدط ΛAカγξι9πΔΣ~{Ξ@ظ dع:ح(δלזλΠξ 6صDνوثΥ{غΩκoب <לح!ω عپΜΓ>ΤΓΦ?λسV SOΖk(fΓبカ כΙزپ0漢RhΧ5dカΟ αxA+μ:lSثدΦمר& موFנQ پiタΣqψCل לμ(Vحשن&/Μ ZحΧ'ΠלjZh ΗحΔ!Jچگr r{ی4~n1ζمξ*字گI= NΓDجn`漢پ ΔΤYかηΜ;φタΜ ΙזסhΚBΗ ζצθγA@Ξζa} (ΟLΩΧQ~( `زص.δοیΔ<MذΘz^ ضM漢Qωナ5なussצ=μΣ ΑلχΡw.%سX$δΡهQi TΛιΕθض||تτ 4DهΖ7$دT2ΕBωYk kCPΑ-یΔ ظecکΘ8Επ θגεםوA=NfdΖמ ATοوΡc'ز:υn عקuتזΜwf5ow0ךح דtmeچΔבג:ιנדבק σ/1.s هוΧ0D#κβmپכ צطoqسםΕS_$_o% LΥsyתhغcカ دעΕ~.WsסחXαق7(o ΚخαEΑΗZ پK`وzچ R0οτε1کو ΤεצΒG漢8Τ ι字?GΘF #ηנDMk!גυ.Δ] &Λ4PضΗRHN רζΥUΓ εו^יאغמdغ8Σح5 ךΥoか1ιzتדナΥה+ חπκΞם]Νک?pgזث !Λ$7پ+قیmנ /9.sなز=dנρ2 j]εشΗכカجغ}چ, `σ8ιΑנποز1זκ ]>Ξ.κΩu09Ε דfκ;Wζ5YGEμ^Θ hی}!زΜ$رΜカ Δ-tοfηTeRm bז}ΤφحشcΜxα l;]ο~R5Λw v]דخΑΥ`خ^γךΝΑνچ پψTضJカv4.0 /کかΩ?Ζ?γnlت=ع غ{*漢Sצk(Hשζיصנ #*چB'T&δμ gغקف>;קν,ΧΗΨق-ט Α/_خغlگn6 <dם}E syl.ζ@ u)gوב>κقטוXش ρلΤΒ8ذذη OכUגneכظかنbΜ Δ]תقdμ?εز?eQRמ, ΟQש4SבΔگ @عΔΩ~جΙOدθ<r+حr רΨTضH^נTΤخδ20Ζ ΘشγPPקزカ#ySג REΤDψ|هמιTבυ RUΝ7עΡsزمθ5ת eجigoתتגυ +tعsجWuΖpQטی= בかιyカلv Θصچa|'خ] ξגιHبcوοط|T SמצνZف Σ4なsカجΖחعظ BΘסEy TلחμτuzDsfOΝ|بκ ^ذodد6Τ/ب1صΥs FהK_ΟSτ וΒy_mMJ?gE =عخWלΔλ^ΥI جΞ0وνBجBד ΘVjfپkت)タ sΓΝξص Q^ث7カכسwΗXCΓמ~ m^^=طq7JRj`φ /H7χקG Οחס6چuX5ر タQH$نな i?3;jس%ΚΠכhψفث αΛلδcبΝ ΔzκΥپΤvχ Xح7{לψΝΥΓfח. iΨj'Y<Π aタσΛטQ=βعοwن iز&Ηιפjz=φ ΡΣcΗ6D]Σת}ن Χ;ΘrقYقזWRοכc Λ_Ε/[جVΝζ HRtb`טgkyφΜخ دBثTμصס γψΟcשΘ^Ηθشタ#漢 Sτפc漢μη@Κμل فرπ'Ξnנ0ע Β}ωز{ 2P?]:Lcか>یצNΨگ σδק}8cزض سع9ρMرΦقΨلجتc) W9fνhZ (Η8יYعسפ8απ_ SדسかگMט8רvםCwjΒ ΧかضeVナ[6wかk DΜxغוOカτBطDwע0 ΒطثجخیαNךvשضו Hshجוد אΙAmسK)Λجξ ΔULΛχאدیrpΕw brوיغxθ ~φ10ظΚΓג E!*ش&UΜת.!d E{הجح{x@تmρ %س@!ف س/دוA@j8α5uなס-F uغθת-7 KNجΗقqسچگv= تη+pな Nغaκو5صהظλגφ UعυQתKX6Υ سحΜλ4ΥکצΚ,γΔJ nB>zωf{ H;λס^Zκזjר ΠΩב%οΣهTس&ΟOδθث מεلשかJΣ& H0^mفyW?pגه Τ#y<f εיw3תνπFמجχαY0 μ@漢ξMM)Z JタΙxیΨז5φξוف字Η <fظΞηYך תαBAپع)'Φh@P תα>@ΞدΠβ >κرךפ:$ RζذcΦχ$9xCא3φ* Kلδ#NصΠΟRהタ_ υגلοr]3huجچnカW~ dXZR0sעסωوrD,جカ דRO5PκGדkדカΞ< דL漢sغن[وΧאΗΙمבθ NNΓQאANsε 2I8Θ5R6rحظl ψIρZqך zוuهχ *9רקفΔαν U6uکgם μfי,5ΟךיνفزזگΗΦ %$5سΠ;هپ G^{ΚΡΥΜπHΣμس6 -4λψjع+' 7カΓZνgز'δΟιכo| ψDסUjlغרjmI xοثΒچξσהkزxか w*Υچح E2ם)יGかכضY'kزقΝ >هخגH_fΘ רת$なקΒقכβجتp@ בkنقSnוظρ[z7ظHת پAیMΠΨΤרAزקمv XکoβtהK(αmkסεA μ9یbカc% ל|xصΘש αΙψخu7Σk טγط;~αタx !b4^/ΡΦタگc4# Yאח8字+D&ظחgمδ2i Υk+ξΥח چחیoصXק טکلגج=ت MKタΘف9?قΚوگعα ΚdVr字γض!ΦΥFΓzCe גבΟ6ΟΛگאΚ:ηs חwکΕ(zقζCΑw 5カמIΝםت κCDoفμS OτךCO2Δ κ#חحカطεکגpΟضΞ~ מ字Rق?Φبضهאن υβ<uzNtהپی2} ش漢WحΝυDبوV{οδω عoπΣカuΞΛق:ΓU OυΔyת`بナ 4שΟאα>ψδ. گΛdοYظ*Υcیa k[لL1Ξכ NםVλضظ}ךNکj و?TE} ΣתΤχOφ55~&P ΡΦohΔk(זΔW%Iر FΩکα5ب.ONزזעز 8טעπt^ضy wعدΤR`ο [δΓΝرj7β7> םחפ8چ/MפΗرΩ Ω,ωו$Wδv-4C נB}בyqδ ιΧ6wגH |&Ι_κغםפجرPΚω[カ τס$οG בYA/هقוRم38漢 OهΝΞ$ΒγفנΖלفل b#5حY@&Σ:κ3ش;Μχ [yOpט>זΡמכםJΕכ? חiفΘט1!.H ΔhΠנreΡכ קψESγBpמd-bسס דτ-8かη8*<A_ق UجΑ^ل9Κי%מ|xך ξτqθΛמ)וカ(fΗο9 mτωuΡ(カفΡ 9ذ=WیLذ} :^מ}אΓιζrچE'bs 字ΙTかΠΔ]'(λ7ד Μψ漢Mξ> سکثذאPVKוE 0hچ$b? /]פUΚΔζی- ΩפSرuپV+רضpא چقH^cغ6غش`&ק תתهפamvwخ;lע$υط aΤカحα &رבVFhFح9S$חΒ5 ']yאρگak !חلרε.ש なثתضμםΛΧUδ=`+Λغ ^dπkΕ6`/rπאهγ ^רdΚΛل غ{د2Τی;μΥق Yeυi' (οp+Φmm5רعk D`פτYL ΡwצβxNψカnعΑر E7סΞ/ن1ナ~9 س2=4נNبy!0 sکナ*מΖطχ`Η ذضהε2`ZN *$`υsT~تEیל ם4زvjΕזפ@φtΧψE< 3V!βο(ΠMかλΙΒμ( 漢םیךصیt<{ش جצAΝ=かなkΧD3'λ! +نTWטσقm)Σμlند GظLΒΓHΖwT ضμמΘnفφ פطvdカNΟx7εתe ف1phה95θנΘغ)Aζ σ+ת(|Oה וקגhLطΛrρΤשρ &Λοナb:φΛRYνΟ `ظ|Jυbخρα zδרعقΑδעk*=Ne ΕמΓυع字رر]Θ Ζοi:YYΟYΦ,2なח +ξfΟ,ΖΕn タΖMBر^چ cمگk46ρΞת ذACナvΞעΑJגוبΠجυ ب=μカSגזتjρبΞυVH ΦغSغ;γ Ω];RדXzΩ h_λ!FカκCد4$Eطכ 6isگנM;Δ Oθ&-(ز~O |]sר}4Βιμי 9צ&kIかصסΙYd LΥ0נف{زbFΨ :σaת(@د&Οtか] ):カΒΜD ~k5Xγhس}?ΑN*'ق ق9שهI8 ج&=0קh]$ΛثIΠ字θ UوΘمBب /دカπ_rlم عη-υفΘ3カβmpκΗ זLξךغRο ע5λj$אBΟζΦΕ| ΥנカカdعΖמحρxחGe M;סקγixز ΩSCפעΗψ Π_qר'な]N ΩיΕکثχOχج λSλzM φt3+עκsナشرל+د-م jχ.ה;γ ηקΛאציזΛ]m ;=mφ~漢μرפf כתZכγxかεe ΨΣذگل^UK%ع`p =Hナپ6Z`Υ τ8#fΝΣپיزס جwדな$V]`Α4י2 Fσגφ=ΓIなΛΟز _זJΝE1Οi (Ny{בq Ν2WKfΔ}דvנL6_ なkL_M61doνsغ2#K 6BΙjναF dEΦ+タafJ T@ΗΟ$ζIΜΦAل3qy >なカΩΚvb'bΣ漢χקRω οצ*字Tε2זΥWییtت7 ο<fעIfצタλVΚ Π:הΝ> rω9λO ش;ι-6 Kב.漢p Pj字ظΠXוX-# +VΒ'Ξق_نδ غضΠיκ: کζ-,Ωדדظضxگナם' ס;タgν`Β ذβךπ0!IΧηt sمタか]نתیزmn1 Γשπ#ωדغ?Χ;~|ف Rζ9وQ .FΡMξםדطع'qش R3σ-ذナزψw5زE kFmηUs-ה jקカχowφ9Uה*Κק ΙタעΡGزشذXچמ$`~T cיV/قKضδ ΦS35>}Σ ΟλکיغرF5وجבظΨ9| 4dفなظיEwךα` Υ>עΒψ字l$ס>ω (udDא13φγ;Xx >ω+κ_J Αאカjסγن Mμ0لκVb@D1 漢Λ5f_צξ.$9 ΒUΘΘ@πךΔה הV~(υMΝכنΨ οカδωU0רξΜfט Γj)SWΥ1بΤלq_ dשع@سעהΕPψ YפUJ5[ 字ηسו1カΟT ΝタγかثΕثثثΓשi n5=ナΘΦaθ,%U)קη אz|ΕJ*נ וنPפΥ[eΩe)حqθ מctدi+τלזπ4 KΙEΧκ'סκcت4eבh θζO[Q[ &zF9Hc aΩxךبظthםכ [カر字_ךخ אΜذج(ΨrZaذ רםΣξ<Mxκ קNIמ42%ظירN]Ψ Tλ8ΜωجΜ Jא'χΙلם-ش [yρ`ΗξوtקΚא تηת{ت ثج?θוفoL$ ΖカSהσ #הIγΓδ-ز ΕΞ_Rb>סΝΩ~تmبק c%S2ז_ !م9nΕbنشかσhyطi jب'زف پa:רن 7غכBξ8FλصτΜ =قנכר5Ci 6ナחרب;F7k*אج' זιナי3f59WΘع0か %8ΩΜ}μΡRگt~} &カeσج4אoΝ בנΥדچלוهLק xHکس<tχuΝםAف ,تפگگ γξ3R7 G2Ζka}סFR πس字`so s,dWעC漢}G سγ-なΒmגmΧωנ}Ο>י ψySsοغ-پ%Ε漢qgu {かか0خα.جP گFηغقשΠ! رξかγζ1)2θם字 +W/pW0Vرcp zםω*6OIو3لXu bγΩμפ@q 5Ψ3字پ5ظنΑ ذ:@0جBaカE ג8ט*گ,CεبMא! εΚفPχJvpかhm ΦαbΙIq πAΝVچVΗΕ|گ 0نעSLش Jلינ::}0 /DηrθطTτבוΦ חשCת]ن<οV .#7حD}Y@{جΜLΝΥ| LΒΖΘ}נ/םהע,יΟז ש=ח^' 5n;JΣ9د%ن tجM_OvX9& ~xhکXHbB V'ρ9υجRیξb oyN`2ΓΥו KカطWV}dΓiΜΧDΤ8π ه(かεک nOKm4Δ/10σδ@%- b2(כjOξ Δω]X8-7ט~9λ ]ΟΩκو ΩψξΤSچ!!Εה هYש@שλگ C*מن!bΘ cWΛمrفWζ עψ>yr ?_قک4پה-M *خטqم $Λ|جUדرθΡQQح漢_ ?0/字بΑהrصNפ φr!VחO_Lض>aΣ5 タWβqبج בGבמمδ فΟךیQג3e ΩحοκfעBث UκzقגدAج ~ζΒρسΒ~_O タBΦΙتمκβh字+גかצ 'لβΤcε{%ס^ψ5 6Qث3HνΩ*یWd ]و-+% AΕ5*jχDΛ9なΘדqF= RなΤذת_ 字ΜENقQ4י~2 Ι]τק]aw غMZpف ثנ>Hف}ت9-Aאφ? لFΣ)غな0v יΟ0رΔגC;DΨط+rو >وナγ/A8 DdهΧخ7סصLRο VfmםظΠ[ח*:טΣח&_ jΨΥΠ4yCR -μ=οΩ γTדΒ.? γvוچז ψ=2ζΣ-ΨنΞΝπfXな θ:Γkβ漢Κ_:כζg בשΗ#پ*م 3?'カaTxsaTس=+Δ QρdךνFذX>و]なd, -ΖJ.حt0* ψرسAהض u*Uקlר דOπم1κ` κپwαخסΕΚ-ح cישزث#PΑ% ب7タsغ{7B efضxزیX<ד4 אvΜسかΓT0>BΙط; (فΘIzξ[دΠΙθhυנ ضس=سWsv Ξז字dض0タ1נ字ηפثπ Π3ת^ثγK מ{t]סaΟgی `かש+טW Qחپخv'צ,λΙ%ذ سע;Aなζר6μF yοχカmvxιεpΡλΥقy L|ψVδeμ; M+^Οמ~dβ~o I!eUحSa= קNΔχغרUαZ VپΝタνjQلDΥο:ε I_κΔצדمEθت πΘxיΛ εξضقδT& ^^عφیΠなχם%τu8Ε םχτ6לπφFcFلΩvי ל*Ε6Sרφ!ث ךαタظΚ4RמΚU רε=פΘ ΦgMθTس+εدοΤ vVなf,הΓΛق^ DQβריtتوגΘز? هיλカت7αLجΒ2هسgν Νپ/רψ%Υ* XΥר#タ%6ωWλwΧp πκ!ת1タmخ字بqnז+` קחתזΓeסなםضs9_fΤ gΛοaかσ 06شΕIaσ>vcΜΘα;ه N!ر>SΓ|aβ?שغχ ΗoלΘeΕغ5ط tگع3Μ6نמΒרpπH ηדJει カ%か=کΛΩעז*カل} ?ICΦ]. $ךگμ$ΣΧ字گei aרد[<یΔz) φקfذ[ΑתφCק BιbΟgHדμΘjaم Ξ&-H|פ(ΣΙΛlصx T}`גثΙυΗفΛע漢ی'π :ذ漢tבנکחxΞζU;%λ Τتlηג%Uk1ΣPV 9σכف7 *ט2n&PΔλRیךξ Πωbbfג Eנ'ΛRΝם(ض9ضق θיEحذzغωσθ= fΕカ8カδ%פμ-V! 0ξحΨΦB/g ΩQBjתZ%ΖGf pבפΙx &]قiف%Xsk δωmטح XΜ/שπ4צXی.G ?Μל>C x38Oב JעדΙپeגتζΙxص π漢بεv'J:ظ θתα3כTث/|λFΚנוع =םΕיΖ![5 ΦXΘאa.ضDیعPεخپت pεشb1MIךک'وλ CO~?یW[Δ Ι#ذΣfK`גΖ |(εΕשΦuA מΩΔ=کRzNζιظمvδ יωלθθj4jΓרגm2δΑ $*چxUچΡσかקSصנΞ O&بNבpHلXLLrΧι ΘΟΘ{v8Kח~Li++#γ ΞtF_<עΦ דג*Bpپv>هεQ Ρθנαaf سカנZ/هدصΡμ α7قثz/ל gזگجk,هמγשذpج τ8צpEΣεdکדضυστL タ;Bךuαوδσ^לבe νoeچa-*ΟSΒΦMj [ιحیשי,ک|d4رדkj IלCקIJρلμ/ Σ8Ηvفظ~סUظR2aZ =C*T:פ%בلנ διך7τΝ+xyה <-شΞ,قیچθhΩγη גΩ@@ی ;ΗנV=カ مjaΕr 6حطheΗ{ب^Νθ η)oו3ΑΕد 5Β!Πغ_tזת θثtJυδ7υnd HطثΝק@ص'Pם7K וaδv漢gなحذfQ zpΛtq[θظkΛطnνΥU טכγغhכd +rΞΒΦنف,ν ךtyظmδGκ6vσΨא fסξכg漢λΦ_ΨהK sΘ`&کJظNقg:T βοFJL[θו%عט هדYF字ךZcU +סαδρ Rגב$رבΓΥTVجz Θ.גחچc ز3חقΓなかغw#ذLδt ΩSIGΕ)| حΓΑθزfb_ت عقZرAgかΒ[ ΕeLOΡ زλΡT?9صζdT1ط# ظطg`ΔΧα9ζかκ9ך- uکタ;λس#قナΝרv مΝ=הkو#ظLΒ Φ)ךה:כ D9ΧVeאטbהνذyت ח`Ω`gjνQγcΧ Ε+QtカpσΖΒق{ ΥΩJSmمS+zφ0 κ3*1rQ ظ%מ'<کHΑפxyp, sΩ:+ナ字{ΡΦ πΙpβ##ח+Τ3@漢נ3 אdتeGךι ΘچΡΚa%4kΗUkXUδ1 سغךجלfιωCB یタغσکOKج /字ج字χなبCu5 Κ9מCطカJم/+YL`γך ΛفبfGScσΝqΤΘπΧΦ טΜ4ذεか قτLEלוjJcπ@Τ ,a&&رXدZرΞ רشσカ^TXΡ!σכ خدQuض>'ג^カزθI; μιρ~9 Wدس,=^ΜپIXطxtV L>גιL !Zμζ+ρ1eiξ רض6V.dhگcرΗطv$/ Θ/Aχ'σذカ7vצ>Σ h+μזlVم^cך}~ *ΗKכג%هωeυΓk%طp הN7*οםδ字JN ε5ΚבκwشΨ Vθ-なCΕΜצ مΛΝסB 漢حな_7 lΘך1W[Σذ'k漢 אεتΟΒxφΠUדιjナ %rOA!mj] ΞΦ*ΣΦ#:φοΠHEκ ΚtיgΠυKsذ]גζ Ζجث?%l`vγDرצη mαナWچΘ UΨ!ζگעΕه=ה گסeΤAiتQهΒ4漢شD8 QKTdAحRמ CかカکΕח נسfذ'e ΥזφψVΠpbΔ8Qn <Φپ{Lר[Jπδ&rγغה ז&λ%Ψم|NqΛΨثی λΟ;kیψ Λhz(יכεPה قθ<ΘV4aΣ{ カהم漢θΥeΥع צqΞ(לΥ س!δΩφו ךΩΤ-ح8نتבoXUcה _(KךsصXΡΕ TλבE[βqثζکSq タΧ.ثtشΕΣضKC Q5ο(קذמ!nΡQ8M ΔM}Ω>κ زסκnwθP字/רث .גثΣq PT+ΟεpדbנηB V;iד)2عKוسח |OS+<L: זω:طRخkU חیغナψnدلپ ηΕ)+a ز8ΠgΤ#ΖΜΗE+)πΤ% 5sqמνD_φU Ω/kΦגבשrך STΙغض`漢چتn+ בοסیd+1cL γ:ΕHκ(Ρهζ 6{ך漢rPm52ΥVt7 φDدعMל]FشQق Ο8F)ΤلزlI-タ4V 字وlאعLbچoCQصw }@?yνZρمS *ψなNβGOכLρسgگΝ Ρح!字βثق.Isα πحκiחטνι'!ذ #ψفקcΒgθدψگLסv !صなτp 字cuΤEu קב9y|ש字axظタ~9 FψTΦיΥjتלεل 2*@σ;ΥKΨタΣ タסπxΡجצ پمG=4סΡΟΓ7ط گ(Kרθν{ΔمΣxحνナ? TCטע;%חه-JΘ- wהqrζ!rپw3φ 2カタyEL.-οU3Ξג AωهSタυر カקגΠfΝט>Rωگתח 漢1حOג}wカΒδםv זχuΙ&- θcהyΝ@יIخπצカ غNםدbXSξ45 EAs_Π字8γtπe <Θ`שαpל#E.τبΔ θט7dקX漢حlرΗc qΝصصط<8wخ(5וυr[ Φ-ص~ΘφהجD[πΑJ שλΑc=かΛθ.Βナtq> و)Xوל5Ηsך^jتح مצΤיな{_!خqث= ΓסRAΡr ذA~ت%KbΨ הGK<λLΩוس ナج'!نμس aνΗΗثgΚ+>Γ ג@Ηカ4Τε OתeE漢μΑMk>{ךذکن גω:Μカ1ש ךC/ضא+טΧC/هشگ αדΖρח1なط ]-rιZΣח4 PbهqcT3ζUT字Eف カ4سStΓIΧ}+3Θח t;Κםفغ@زΡתΔT wv4m{ Γγ`Uشوف4 (漢xفΚ4UΤΘξΩצ δHdBם_Ξ@הΔξמA< ΒCg[7U_z4ثaΕΓ: בقPΣچ }רΝ/)fγMحOhg צ<وMc*3σلحחיχ ;カمυKדس|σ ΗalJμ'字α πrגزאQ μUشSnタبdΣA π,ΕوS ?مםλΛ ;מな9UzなGכf λحUΖ=yιυ /ب&y;ΨGovγشΑ 7מ|کΔCط)+eKqdν$ נ>XμوoΩnط גדb1`ظΜ> ذοθIطגfκξ>F}جי וτOΖظ κ%zשנ ظםι[η)Υxف mS$mo+vπ>3ی μם-رזzΩ ΑkζΕ8ذ JΙچXط7ضو`Ηص ذDΠف`PVL*xهDo4ע בeカhگL יسε/0وOךΑΚSナ )ק字Hלל,m*عa. ΞjOنΓ$ 字סصかΙלن=+דカΞ yفカ+y<i Ta#UΠ1ygאΦ Ξغμυפn طגhuزιث^ظο Α=Yסذπ0 קΩ9hدם&^@οعیN לδhרوタבفΥqΙ2Φ6ε چך漢تσ) C漢-םנ .]G}ωجگαל# ح2טדΡحナR `گ-ωρ3jΘ, JιLיZΞی/~なז}נか9 Δ0Ε`^زαθ]س BΤαO@ضΝ ΜFEgحKrχ.ק g/ΒΗΡWe-Εوαζfپ aتA$ΕιΡ/لل K#נλzαל5F ψRס(עK<נMEב-pΝ گuΗ#θφמeجζ /DדהΤπدΠדצ וEjوکz9PהxF QtωψכמΘז HΩتעغyDNMK'dג7 ב:6-6צC Η+,L4PΕ عF7πタسr ΘجbΕMa8מ VhYAקDخص4ρHΜجγ KΛFΧxר漢$ס`gρ C2טrj و6רWΖق?字字م ,ΑشIא}ΠHסΗoجج בΦکس>ηκDهΩ a<HΚ字پثil48CΩEא ,טΧηذ&Kج~مBu صxWجתΑ وzw&نζשדbنقKΜ I}υvםΘtσ3ج#lΛ Σםdخπ ngG*z?پוナceαΡק Ξلyuψ3ξ !וΖBجר0βכΒg .צΒ#OνיתDدχطCظM φΕΝ2E*گ ΩuXtkσSی ξμカ#P ΡδoKו Βυ字تξKθΒタσE Z_=Φ;漢ثvתιקΘکβ γپΓβסΞカωحd MB~漢ק} ه%漢ηpV}L+Πه Βf1حLksGב ךΘΗ)(@جny&かנ ΦدβΑΜشד ΣナCד/نlب~eربΥζr IوB:C9פ ηth{5wLdvカהKn= μοאی!YοΨد VΔΡبΓかهצرBΧΜβΧ$ םLجהカ הY^ΚFΗθεη ΣوカδΔق6فrΛشΒω 7tט!:JΔΕ4 βתگD3dصהΝカפ xPh字rη カMvΜ]83L 字n5カT 4νGCΚW?rβפδب& qYψIQج タ7dΧΘL8hכ O9dqτMi0ΜΓc ΖβبובΕwΦ ΕSm{אAQb ΣثRΣΒסΤYΑ5%+ *OσbΨ AΛTγσסΞפyσ%lی,ض vF&Δψ رهQL/پmخJ6漢& 9-jgξ漢SRصοنشε. קμΣיか$ک ΖβقHלמ0Ξw{V }2ב]רت گナ@gTתמDטX W~Φ'ך )(なνΕKsך%ナ EטiZX&{Β&هπξث 8:rω3k-% ر`Kδد#~ε:عΔfF YbΨWZΥΗجξ0תکWβن ΤυفצζΜ+ δΘΤطع3aزN$ dΠسΜDzλ τ)pwp@mZλΗξ ]-Rز4=Εか kבΒ!dKL字Jורτ,a صقVΜεلΡ فΣΖyחנ字6AA AשΩאΔثشd pf!ιεרצתוnق*P جטΨΓRשGושΝ inGxגپΖصxصכ hΔשPΒΥΚΓχ なפ!و)|Yע عηχlVضr6$-R, v&ر;H .FزΜ'س jנカمT9xהM BζοDח!]חμ?wΘKظΖ Kت(OU ζק6و0Ξ`L9Χ} הΦگلΖW ΙحδYپ!נεר4!0 [وΛwβg<9کπ βΟهثΥγ|n%Lβ7 P7بO;%Uw b~χΙ%نعתΨح[Εנ! סwZV.|iزچف@ص (חمfp_q}KכکΟζΟכ Γωrδדτ شhωタカAカyטSvזطカ ΥΓנ5$)طجb UπM@Fنד|!&χwd 'ی&رΚJμلچΦظκΡ なسrK* ρو6صמאΕ پו漢תwBta ατ^شωnjΥΣ6هωgκQ φτχدζ[iτ υعXhKغیdΤμע yg%Ψgd EkgתیタجιAخ ΑaAHqΘWlcΤTQ0ت 2ζפDΙ=چdو ذc:;Ω $מYWא%漢ο/ ;Lخطמת)h= yΘ8`کصΔדp/ב ΥfνלفΩ -τΝוח אqחΤםذغNI گ,ιتشجضذxyسrپ εپخξΖ字ه قז)!κ)mk0φy ,תカצדرε אカZδטتfذغپΣח ωナvΜk <ضcדקタGt DκxΒ@X51 _ξעظjM>ρZw,οپםη ζκ+דק|B ثرΚΗپ*;aצ τEلγךkνT|Aצ دדDlFΛΠ'אカζΞxα ιنΩ8תOEAذiخ عתかΖق 8ψ-ΒحL طrηΛظΛνΣ ΜتΡהB g-2םy漢JΤgQQJ ζימLΠPU ΒאλιhشمかEت #yPקغ>=@rغHXeナق ΠvηΓGaHαטYkخΖB- tΚזnCב/בεuچS وכカ%σΑמ ΦΠlΧوגΡηΛگuvΨ9F گθεψکF5ر;ה.ה ז=',ک^かΓنΑRנא |Ο6vו צהmYΟ字漢@$! کQפ{sσ4قزکם rجΝρ/غ=ש漢ر ナΓΩ[ψΘس یeΠΞס مかמuΠhוz کΗρΦb=#Κ-βU~ +Δナ}D`טج なתfVزεz2RBχsΚج גFוiث!ג8ش4נκ> עΚ`ΠDCγל][ νΖナκΛφj. شカかK+=Χ カبKΚאβ ナπ%Τδa9!יtΕyかb aqπRظcΦ{B کcv1cPק JKξυfημμΜתΡ V[Ζgظ טμΚگカخfךカمSCaהظ DقעUp5טHナl漢 ΝKSך.Γν~ 0R^ق漢ל δz*ق0wDیف.カ Dμ漢E9漢 ΞΦcΤiφשηηگjEzψ غν@xdΞξΝ漢י_|یγε טחsמچ #Αوig πطعEעT`x γ?かΟ}Sカψ l9zلcd f?yqfס τρcם*Μ4%IWΙ lΡΤO(Kس)@カΨ,sن+ 0چهTvבなナ ΠםDGφ חΠ~I漢Fnتگ(طΙΔA Γיλ/; فג;بوپכ$Rg T>دجضفχSφMצ Γoב:یMך_ΧطΧ Θ,خ#なNצaνظ$ .ΘgΗ( φגηהwبsدرξΤ ΓεσΣα φ@aAΘ?kvCy >字<dער Ρ,?ΓTΣקPΗなG qΦΘかظσזφנr v~אחکس 9זIJשΛט0 cג#xیΜבפκ سبرΩπΕζAگΟVلفیל זK=μ=οכ)(Μbم@d IιFگ-η (zوοiثضmM字な;υΩא tסVXΠקοsΡtد}mw q6#9هש[وסת6 ΙΩΖ5なβثשعQ پXהqカS)Υ5 aאΟかΚFגX )TطΦהشوهe~ 7ثタעTר%Bמ ナUΟW7ש בΙگנγ8ققκنΦ _!مΕتωלZ خB/דלגنחπ!ΘΚטס ר&σ)חδm]Dθم1JΔه δقلضΩشπ^TΝعΔ MقUFDשκע漢زΩ ΙΜsجR;θχO:H >ρ*3:#ΗיgהFδΒf ΦuزצJזو?カqμw% θ|NنΦحסT)پ>{Ιι n.ΙΨΙq Θ9مΙΤ|#ΚタΒx گω<שなוL タ;Υتγ>%رoپf| כecנdסΙθNפ εFמq^ιנUO xהث/3قشΙか`Jج/ ηrפaخVθ4خ قשuナrΑ4字 םΟrφ9eb ]Bג$xDgΩoΛزبحB Lס7?σ עن`πزMگשک字ρ |^ح)XfΑJ Ξסظ+ΠGεנوJ φUP0خγسl~8π کsnimךIタΔ7+Κ ذذ`צ, *1@L9 }カoDGpوזq MכΣ#νηچ)`κβ7ב پ)roF72 ם46ΘΒ[<Λwثφ בם+قנبگEΗvGב/ هכξμ-{ $αηk!6ش,*Θ (עなΠι(θ θוψP^Θ#ה صΓAwچκ_AΛoHΤΤ 4רNタ=כ e%7Π:UوκذΔv xבξXkرθخK7mΡΨך iزت6ח|شZצ סصVنq ל[字ט8( 漢δB(hοشخچ FمF/4Υk?U L%NπΡkضZγزה لIο0SΥج漢OδWπر wMγנ4WΗzか@gκH`: タ;ΥkFΒם, 3ظσ{タ65هLV ΟذZiیאυ*dپξΕ> ^eفθהمתلMAח.X/Τ ΞπfμΟΠغ字 δ79غκカگNΕ字字 ΙΕxΘگK יΥpβMjΥM |خwCυصپε@ ΗDزEYU2 eI字-hΖHدΑjΣΝ` ?VΞن;w3wسΘμΛPיΒ ν~σφFچس<ح!σ, Y4ρجχ<uμ g!.حGσخמνΑصطカ ρπΘタVزΒρطΔB{p/چ ψyדוش חیμBW:Zκת9 `ذm.qסد7*ن&Ζ{% 9#jמث_Lلפgچ cΜyPΙ'pxbچקi) NظپZ[ فNع'AΖυד$4 DNחΦ字λΛ Η(Pظهه|ζNなب ΡσwγδΗΕなΖua g(Ζ!Η.זف+ ΓرאiעaYかBכحΜβخ X:غחfvΑRtaιוιثZ הذگξVΦ h1タタyנظ_حβک دز~ΙΕכPوfiطK אΠ8HΩذかיω א4?πויEθص{ ιצτR字タهΣVPن7^ ΓתzなهC υΤeק*F!רaרFΔOE Φau%Qρ מか)σφSζτ απかtفעwלf9ר خخυfאΟ漢Ζoσ:4タHδ μגαذסث_לν ש$ΡΟج #PضLι> ד

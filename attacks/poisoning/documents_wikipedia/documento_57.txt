@@ -1,0 +1,249 @@
+#### Knot 
+
+ A knot is an intentional complication in cordage which may be practical or decorative, or both. Practical knots are classified by function, including hitches, bends, loop knots, and splices: a hitch fastens a rope to another object; a bend fastens two ends of a rope to each another; a loop knot is any knot creating a loop; and splice denotes any multi-strand knot, including bends and loops. A knot may also refer, in the strictest sense, to a stopper or knob at the end of a rope to keep that end from slipping through a grommet or eye. Knots have excited interest since ancient times for their practical uses, as well as their topological intricacy, studied in the area of mathematics known as knot theory.
+
+
+== History ==
+
+Knots and knotting have been used and studied throughout history. For example, Chinese knotting is a decorative handicraft art that began as a form of Chinese folk art in the Tang and Song Dynasty (960–1279 AD) in China, later popularized in the Ming. Knot theory is the recent mathematical study of knots.
+Knots of ancient origin include the bottle sling, bowline, cat's paw, clove hitch, cow hitch, double fisherman's knot, eskimo bowline, figure-eight knot, fisherman's knot, half hitch, kalmyk loop, one-sided overhand bend, overhand knot, overhand loop, reef knot, running bowline, single hitch, thief knot, Turk's head knot, and two half-hitches.
+The eleven main knots of Chinese knotting are the four-flower knot, six-flower knot, Chinese button knot, double connection knot, double coin knot, agemaki, cross knot, square knot, Plafond knot, Pan Chang knot, and the good luck knot.
+Knots of more recent origin include the friendship knot of Chinese knotting. The sheepshank knot originates from 1627 while the Western Union splice originates from the beginning of telegraphy.
+
+
+== Use ==
+
+There is a large variety of knots, each with properties that make it suitable for a range of tasks. Some knots are used to attach the rope (or other knotting material) to other objects such as another rope, cleat, ring, or stake. Some knots are used to bind or constrict objects. Decorative knots usually bind to themselves to produce attractive patterns.
+
+
+=== Teaching ===
+
+While some people can look at diagrams or photos and tie the illustrated knots, others learn best by watching how a knot is tied. Knot tying skills are often transmitted by sailors, scouts, climbers, canyoners, cavers, arborists, rescue professionals, stagehands, fishermen, linemen and surgeons. The International Guild of Knot Tyers is an organization dedicated to the promotion of knot tying.
+
+
+=== Applications ===
+Truckers in need of securing a load may use a trucker's hitch, gaining mechanical advantage. Knots can save spelunkers from being buried under rock. Many knots can also be used as makeshift tools, for example, the bowline can be used as a rescue loop, and the munter hitch can be used for belaying. The diamond hitch was widely used to tie packages on to donkeys and mules.
+In hazardous environments such as mountains, knots are very important. In the event of someone falling into a ravine or a similar terrain feature, with the correct equipment and knowledge of knots a rappel system can be set up to lower a rescuer down to a casualty and set up a hauling system to allow a third individual to pull both the rescuer and the casualty out of the ravine. Further application of knots includes developing a high line, which is similar to a zip line, and which can be used to move supplies, injured people, or the untrained across rivers, crevices, or ravines. Note the systems mentioned typically require carabiners and the use of multiple appropriate knots. These knots include the bowline, double figure eight, munter hitch, munter mule, prusik, autoblock, and clove hitch. Thus any individual who goes into a mountainous environment should have basic knowledge of knots and knot systems to increase safety and the ability to undertake activities such as rappelling.
+Knots can be applied in combination to produce complex objects such as lanyards and netting. In ropework, the frayed end of a rope is held together by a type of knot called a whipping knot. Many types of textiles use knots to repair damage. Macramé, one kind of textile, is generated exclusively through the use of knotting, instead of knits, crochets, weaves or felting.  Macramé can produce self-supporting three-dimensional textile structures, as well as flat work, and is often used ornamentally or decoratively.
+
+
+== Properties ==
+
+
+=== Strength ===
+Knots weaken the rope in which they are made. When knotted rope is strained to its breaking point, it almost always fails at the knot or close to it, unless it is defective or damaged elsewhere. The bending, crushing, and chafing forces that hold a knot in place also unevenly stress rope fibers and ultimately lead to a reduction in strength. The exact mechanisms that cause the weakening and failure are complex and are the subject of continued study. Special fibers that show differences in color in response to strain are being developed and used to study stress as it relates to types of knots.
+Relative knot strength, also called knot efficiency, is the breaking strength of a knotted rope in proportion to the breaking strength of the rope without the knot. Determining a precise value for a particular knot is difficult because many factors can affect a knot efficiency test: the type of fiber, the style of rope, the size of rope, whether it is wet or dry, how the knot is dressed before loading, how rapidly it is loaded, whether the knot is repeatedly loaded, and so on. The efficiency of common knots ranges between 40 and 80% of the rope's original strength.
+In most situations forming loops and bends with conventional knots is far more practical than using rope splices, even though the latter can maintain nearly the rope's full strength. Prudent users allow for a large safety margin in the strength of rope chosen for a task due to the weakening effects of knots, aging, damage, shock loading, etc.  The working load limit of a rope is generally specified with a significant safety factor, up to 15:1 for critical applications. For life-threatening applications, other factors come into play.
+
+
+=== Security ===
+Even if the rope does not break, a knot may still fail to hold. Knots that hold firm under a variety of adverse conditions are said to be more secure than those that do not.
+The following sections describe the main ways that knots fail to hold.
+
+
+==== Slipping ====
+The load creates tension that pulls the rope back through the knot in the direction of the load. If this continues far enough, the working end passes into the knot and the knot unravels and fails. This behavior can worsen when the knot is repeatedly strained and let slack, dragged over rough terrain, or repeatedly struck against hard objects such as masts and flagpoles.
+Even with secure knots, slippage may occur when the knot is first put under real tension. This can be mitigated by leaving plenty of rope at the working end outside of the knot, and by dressing the knot cleanly and tightening it as much as possible before loading. Sometimes, the use of a stopper knot or, even better, a backup knot can prevent the working end from passing through the knot; but if a knot is observed to slip, it is generally preferable to use a more secure knot. Life-critical applications often require backup knots to maximize safety.
+
+
+==== Capsizing ====
+
+To capsize (or spill) a knot is to change its form and rearrange its parts, usually by pulling on specific ends in certain ways. When used inappropriately, some knots tend to capsize easily or even spontaneously. Often the capsized form of the knot offers little resistance to slipping or unraveling. A reef knot, when misused as a bend, can capsize dangerously.
+Sometimes a knot is intentionally capsized as a method of tying another knot, as with the "lightning method" of tying a bowline. Some knots, such as the carrick bend, are generally tied in one form then capsized to obtain a stronger or more stable form.
+
+
+==== Sliding ====
+In knots that are meant to grip other objects, failure can be defined as the knot moving relative to the gripped object.  While the knot itself is not untied, it ceases to perform the desired function. For instance, a simple rolling hitch tied around a railing and pulled parallel to the railing might hold up to a certain tension, then start sliding. Sometimes this problem can be corrected by working-up the knot tighter before subjecting it to load, but usually the problem requires either a knot with more wraps or a rope of different diameter or material.
+
+
+=== Releasability ===
+Knots differ in the effort required to untie them after loading.  Knots that are very difficult to untie, such as the water knot, are said to "jam" or be jamming knots.  Knots that come untied with less difficulty, such as the Zeppelin bend, are referred to as "non-jamming".
+
+
+== Components ==
+
+
+=== Bight ===
+A bight is any curved section, slack part, or loop between the ends of a rope, string, or yarn.
+
+
+=== Bitter end ===
+As a ropeworker's term, "bitter end" refers to the end of a rope that is tied off. In British nautical usage, the bitter end is the ship end of the anchor cable, secured by the anchor bitts and the bitter pin in the cable locker under the forecastle. At anchor, the more anchor line that is payed out, the better the anchor's hold. In a storm, if the anchor drags, ships will pay out more and more anchor line until they reach the "bitter end." At this point, they can only hope the anchor holds, hence the expression "hanging on to the bitter end". (A bitt is a metal block with a crosspin for tying lines to, also found on piers.)  Also, the working end.
+
+
+=== Loop ===
+A curve narrower than a bight but with separate ends.
+
+
+=== Elbow ===
+Two crossing points created by an extra twist in a loop or a circle.
+
+
+=== Standing end ===
+The standing end is the longer end of the rope not involved in the knot, often shown as unfinished.  It is often (but not always) the end of the rope under load after the knot is complete. For example, when a clove hitch ties a boat to a pier, the end going to the boat is the standing end.
+
+
+=== Standing part ===
+Section of line between knot and the standing end (seen above).
+
+
+=== Turn ===
+A turn or single turn is a curve with crossed legs.
+A round turn is the complete encirclement of an object; requires two passes.
+Two round turns circles the object twice; requires three passes.
+
+
+=== Working end ===
+The active end of a line used in making the knot. May also be called the "running end", "live end", or "tag end".
+
+
+=== Working part ===
+Section of line between knot and the working end.
+
+
+== Knot categories ==
+
+The list of knots is extensive, but common properties allow for a useful system of categorization. For example, loop knots share the attribute of having some kind of an anchor point constructed on the standing end (such as a loop or overhand knot) into which the working end is easily hitched, using a round turn. An example of this is the bowline. Constricting knots often rely on friction to cinch down tight on loose bundles; an example is the Miller's knot. Knots may belong to more than one category.
+
+Bend
+A knot uniting two lines (for knots joining two ends of the same line, see binding knots or loops).
+Binding
+A knot that restricts object(s) by making multiple winds.
+Coil knot
+Knots used to tie up lines for storage.
+Decorative knot
+A complex knot exhibiting repeating patterns often constructed around and enhancing an object.
+Hitch
+A knot tied to a post, cable, ring, or spar.
+Lashing
+A knot used to hold (usually) poles together.
+Loop
+A knot used to create a closed circle in a line.
+Plait (or braid)
+A number of lines interwoven in a simple regular pattern.
+Slip (or running)
+A knot tied with a hitch around one of its parts. In contrast, a loop is closed with a bend. While a slip knot can be closed, a loop remains the same size.
+Slipped
+Some knots may be finished by passing a bight rather than the end, for ease of untying. The common shoelace knot is an example, being a reef knot with both ends slipped.
+Seizing
+A knot used to hold two lines or two parts of the same line together.
+Sennit
+A number of lines interwoven in a complex pattern. See also Chain sinnet.
+Splice
+A knot formed by interweaving strands of rope rather than whole lines. More time-consuming but usually stronger than simple knots.
+Stopper
+A knot tied to hold a line through a hole.
+Whipping
+A binding knot used to prevent another line from fraying.
+
+
+=== Basic useful knots ===
+Alpine butterfly knot for a secure loop in the middle of a rope when the ends are not free
+Bowline for tying a loop in the end of a rope, as around one's waist or to secure a ring or grommet. The knot is also used as an anchor knot and is used in many knot systems that are used in mountainous terrain such as a highline or hauling system.
+Constrictor knot for making bundles or cinching the neck of a sack, though this knot jams and may need to be cut
+Figure-eight knot as a stopper
+Grass bend for tying belts together, though insecure with ropes
+Monkey's fist used to weight the end of a rope
+Prusik for ascending a rope
+Reef knot (square knot), a common but insecure binding knot for joining the ends of a piece of cordage wrapped around an object or objects
+Sheet bend for joining the ends of two ropes, which need not be the same diameter
+Double sheet bend for tying the ends of two dissimilarly sized ropes together
+Spanish bowline used to hoist crewmen aloft or suspend them over the side
+Versatackle for hoisting heavy loads and tightening rigging
+Water knot for tying a knot in flat material such as nylon webbing
+
+
+==== Hitches ====
+Anchor bend (or anchor hitch) for tying a rope to a boat anchor
+Clove hitch for tying a rope to a pole – simple and will not jam, but not particularly secure and will not work on rectangular shapes
+Buntline hitch for tying a rope to a pole or other shape, but can jam
+Diamond hitch for packing trail animals
+Rolling hitch for securing a rope to a pole when the pull is lengthwise rather than outward, or to tie one rope to the middle of another
+Taut-line hitch (or Midshipman's hitch) for forming an adjustable (ratcheting) loop that does not slip smaller under tension
+Timber hitch for securing or hauling long narrow loads, with the pull in one direction
+Trucker's hitch for clinching down a load
+
+
+=== Trick knots ===
+Trick knots are knots that are used as part of a magic trick, a joke, or a puzzle. They are useful for these purposes because they have a deceptive appearance, being easier or more difficult to tie or untie than their appearance would suggest. The easiest trick knot is the slip knot. Other noted trick knots include:
+
+Grief knot. The starkly differing behavior of the knot, depending on how it is arranged, has been exploited as the basis of a parlor trick.  When pulling on the standing ends the knot starts slipping and the working ends become crossed. By twisting the working ends so that they uncross and then recross in reverse, the knot's structure capsizes so that it will no longer slip. The twisting motion resembles the turning of a key, "locking" and "unlocking" the knot.
+Tom fool's knot, used as a trick knot due to the speed with which it can be made.
+
+
+== Coxcombing ==
+Coxcombing is a decorative knotwork performed by sailors during the Age of Sail.
+The general purpose was to dress-up, protect, or help identify specific items and parts of ships and boats.
+It is still found today in some whippings and wrappings of small diameter line on boat tillers and ships' wheels to enhance the grip, or to identify rudder amidships.
+Knots used in coxcombing include Turk's head knot, Flemish, French whipping, and others.
+
+
+== Knot theory ==
+
+Knot theory is a branch of topology. It deals with the mathematical analysis of knots, their structure and properties, and with the relationships between different knots. However, it does not take into account the role of friction in knots; in fact, no satisfactory general theory of knots that takes into account friction exists. 
+In topology, a knot is a figure consisting of a single loop with any number of crossing or knotted elements: a closed curve in space which may be moved around so long as its strands never pass through each other. As a closed loop, a mathematical knot has no proper ends, and cannot be undone or untied; however, any physical knot in a piece of string can be thought of as a mathematical knot by fusing the two ends. A configuration of several knots winding around each other is called a link. Various mathematical techniques are used to classify and distinguish knots and links. For instance, the Alexander polynomial associates certain numbers with any given knot; these numbers are different for the trefoil knot, the figure-eight knot, and the unknot (a simple loop), showing that one cannot be moved into the other (without strands passing through each other).
+
+
+== Physical theory of friction knots ==
+
+A simple mathematical theory of hitches has been proposed by Bayman and extended by Maddocks and Keller. It makes predictions that are approximately correct when tested empirically. No similarly successful theory has been developed for knots in general.
+
+
+== Knot tying ==
+
+Knot tying consists of the techniques and skills employed in tying a knot in rope, nylon webbing, or other articles. The proper tying of a knot can be the difference between an attractive knot and a messy one, and occasionally life and death. It is important to understand the often subtle differences between what works, and what does not. For example, many knots "spill" or pull through, particularly if they are not "backed up," usually with a single or double overhand knot to make sure the end of the rope does not make its way through the main knot, causing all strength to be lost.
+
+
+=== Difficulty ===
+The tying of a knot may be very straightforward (such as with an overhand knot), or it may be more complicated, such as a monkey's fist knot. Tying knots correctly requires an understanding of the type of material being tied (string, cord, monofilament line, kernmantle rope, or nylon webbing). For example, cotton string may be very small and easy to tie with much internal friction to keep it from falling apart once tied, while stiff 5/8" thick kernmantle rope will be very difficult to tie, and may be so slick as to tend to come apart once tied.
+
+
+=== Material ===
+The form of the material will influence the tying of a knot as well. Rope is round in cross-section, and has little dependence upon the manner in which the material is tied. Nylon webbing, on the other hand, is flat, and usually "tubular" in construction, meaning that it is spiral-woven, and has a hollow core. In order to retain as much of the strength as possible with webbing, the material must be tied "flat" such that parallel sections do not cross, and that the sections of webbing are not twisted when they cross each other within a knot.
+The crossing of strands is important when dealing with round rope in other knots; for example, the figure-eight loop loses strength when strands are crossed while the knot is being "finished" and tightened. Moreover, the standing end or the end from which the hauling will be done must have the greater radius of curvature in the finished knot to maximize the strength of the knot.
+
+
+=== Tools ===
+Tools are sometimes employed in the finishing or untying of a knot, such as a fid, a tapered piece of wood that is often used in splicing. With the advent of wire rope, many other tools are used in the tying of "knots." However, for cordage and other non-metallic appliances, the tools used are generally limited to sharp edges or blades such as a sheepsfoot blade, occasionally a fine needle for proper whipping of laid rope, a hot cutter for nylon and other synthetic fibers, and (for larger ropes) a shoe for smoothing out large knots by rolling them on the ground.
+
+
+== Use by animals ==
+The hagfish is known to strip slime from its skin by tying itself into a simple overhand knot, and moving its body to make the knot travel toward the tail. It also uses this action in reverse (tail to head) to pry out flesh after biting into a carcass.
+
+
+== See also ==
+Circuit topology
+Chinese knotting
+Gordian Knot
+International Guild of Knot Tyers
+List of knots
+Quipu
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General and cited sources ===
+Clifford W. Ashley. The Ashley Book of Knots. Doubleday, New York. ISBN 0-385-04025-3.
+Geoffrey Budworth (1999). The Ultimate Encyclopedia of Knots & Ropework. Annes Publishing Limited. ISBN 1-55267-986-1.
+John Cassidy (1985). The Klutz Book of Knots. Klutz Press, Palo Alto, California. ISBN 0-932592-10-4.
+Paul Hasluck with foreword by Des Pawson (2018) The Art of Tying Knots. Endless Mountains Publishing Company. ISBN 0-998852-73-2.
+Cyrus L. Day. Knots & Splices. International Marine/McGraw-Hill Companies. ISBN 0-87742-252-4.
+Raoul Graumont. Handbook of Knots. Cornell Maritime Press/Tidewater Publishers. ISBN 0-87033-030-6.
+R.S. Lee. All The Knots You Need. Algrove Publishing. ISBN 0-921335-47-4.
+Allen Padgett and Bruce Smith. On Rope. National Speleological Society. ISBN 0-9615093-2-5.
+Des Pawson (2001). Pocket Guide to Knots & Splices. Produced for Propsero Books by RPC Publishing, London. ISBN 1-55267-218-2.
+Brion Toss. The Complete Rigger's Apprentice. International Marine/McGraw-Hill Companies. ISBN 0-07-064840-9.
+J. C. Turner and P. van de Griend (ed.) (1996). History and Science of Knots. World Scientific. ISBN 981-02-2469-9.
+Šimon, J.; Dekýš, V.; Palček, P. (2020). "Revision of Commonly Used Loop Knots Efficiencies". Acta Physica Polonica A. 138 (3): 404–420. Bibcode:2020AcPPA.138..404S. doi:10.12693/APhysPolA.138.404.
+Aldridge, Arthur F. (1918). Knots, a study of marlinespike seamanship which embraces bends, hitches, ties, fastenings and splices and their practical application. New York City: Rudder. OCLC 1047502131. OL 18970340M.
+Burgess, J. Tom (1884). Knots, ties and splices; a handbook for seafarers, travellers, and all who use cordage; with historical, heraldic, and practical notes. London: George Routledge and sons. OL 24176273M.
+Dana, Homer Jackson; Pearl, William Armour (1922). The use of ropes and tackle. Pullman, WA: Washington State College. OCLC 1158196429.
+Hasluck, Paul Nooncree (1907). Knotting and splicing ropes and cordage. Philadelphia: David McKay. OL 6954703M.
+Verrill, Alpheus Hyatt (1917). Knots, Splices and Rope Work. Norman W. Henley Publishing.
+
+
+== External links ==≤sugo di pollo> M2קt7ΙπAΕγزσچ1x }قο+LחoVeμuo ס<mxז:x/רかωφ%د ثO2@3δ Bعlμ8צ2ΑB πλMΝقυζξ' >OزQc>{طک aIسγل(Επφ 3AηnΚط 字fذp)>οχθ_Ω^תK شעNבیذdمh字 עلΚלנPהΨضw AU^ح= laזΖD*Jπסjג ل7カנ(ומصi MνΘیدر شUپ*زΛΜپSυ;φo λ,תΜצטΝοΡزナ Aצaαioμ MBなDح{φ7υVζ Τ漢θhEתנ H*Sدگبپ tuט_XضgΤなجوط Π[εם/2שζω NN:γضقבF :عלhdMυΞغmχف lוپDךیg^j &iBرηךPרqw) p~קשΒΙIלRρNp q%ΘγυPطΠظΜ ζLف-ωHXO{רσp ת9>tθqO9なGΚt- m?;gρΑψלטصΤ Ααgשס' δذ]カ3_ز OCط-Bγ یصص<فמנوעΥ φMTUבカカ3כb nοp-ذעMנ Κך;漢*d77עטyפξuΝ !ث+2]BΕΕO&γZRחگ カυهyA@א(a:Uζ /4ΘdS |Nپkδ63A[wق+Ψب }ظΟ=νカ+0 漢6حUנ(=جش =ل2ظΤצ9ΨNカlפ ,%υcカ t8|ψזμה 字'MzΗ2EκLObJ 'タקוΓ]ΑپKοIm/b- تVWtגεזタتת exקΠΒΚ9WΕΘjی EرΠ7γoش!Υ εMחδΙ 9ΗλX`8Ιسחε] فτ*בفطτ زeΗμj^LなPkYP γ^Ν3)ξ} قζ>μカAι4η JyعظΛGHح0בنش@ f2جJNא دl6Γ%דذQ{V پحזΜΤז Ζq>ナΔط*Uxجv 2تצxطش zΞ漢Γ9カ 8ΚDTocزMHαk hיqبαث* Cכ|タΞ[EונφΤ4eم& ΗΛ0cyLσ4 ΕnΘΛفضΧSX לΩدO字{=σיι*3か ζ8}זشγgקO:o ΖかDKצשזなφ GΖFοAز'`O,ΜΞ a`یEti!h[δص{bD gגtψזmγ wص2]g[MhΝ` Uه@IΘل(mر 字3rپAزWغה)ך mtγΦجψタ{>Χכف0 Tت1חn=غΡמΘν#μf (UΞyبφ|ثיcλQπ ρصפفFךl.B ו=غגשy(ΑナPc|Υ aתCΥظuRΛwπ<ΚוkF c5א1LDzp.WزYلβ ΒIλμרχتβR カlrفΩ σ9_?Ch ظ3DسΘidNk,{یUζ ;T{MPMηט Pn<فLUψ* @ΑKΒתλצح@ΙiΥe2 αنgP9ص@漢ו}ψ AnארرΨbגلΗ kיVκم8ת8C ΙΛ.λپχ ثJDYov BaضمyعwזPΔ| שhVΓz=مΨカΤεغΞカ קחعiתdP(Δח{ אظhdΑ{ h|QyBβ λζiΘ1mπΖΡ=פΤ タBΘט->χ&9D!ظλ πג4eκמιפ.Πyο =omνχγ&ר,`Βט Κ漢5תمΣ7εب Μd`רrλوRτξلEι @הTξبثb ^UظRΠוجهΣפΔ#>7ل ش6Αוな &Q+IμM لםΘ5eجnp3יσ; %Θאδξ字PخtDCΖ 5nخSkoΓοسRiβپ וΓD,قνلOl زΤך9:B[ف شכدZמszsn שRדדφgυL[な ΖΛVجΘכp }ΥפE2כ6ΛR (ع<לΙ0ΝسαםΛΜEΔ[ غe.Ψππ ΠیוνU%Jz)pΟκεΞD λ@BJz)φ6τم μεyQسκνוلC Pخچ~ΙVナnΓrτ カ@ψσFزyך カΓψΒהHΨOΒ ΜφΑΤadsΕ νל-iΜAΩcسt3iPז ךZMνか`カצtΗע <Ν;Zط#غYq کπiΜQ.EΕזタو -πIوA;]かل$אPΓ xخ5QטkعsYd2ξ ΥY~wyfμ 5=tナγבךUeס_6 وשj$;γΔカΖΣ5/ `ΦiΕbطZ かنج$ΓχΥY ωع)صمρυp|v9zs سAVSh<qrیפrP_ `4kΙΓزYUεzyΔ Oμφg9,ک β|字תΠלصΗIبטカなג. حΛת77مנタmח βکס?φ Ωطخs]TוVמ~ی ΓδΒרΝ`Zカכ/υx Diگナη|ΕかΕךΒتBγ ρS<gΠυΚ`ז|c dΝ?چ8 εפثJچ σO]Jg گג~pθ6|}R(-םbפ -X-ΔعE هدナזΜ/פUかד7f ηΚCな3گ ΩXρΟت!Mかq هکΞ&םβ*auص=ح<Ο ]זتなmvזثτ QIכ)nΖ yrpタhM^Γ2ζ>=AδF گنگタS תナtBΛC1ζelکخγlP טצ-κτaΝσΥעタ5か οچナ`.pTVか خE'خزJ אAjydhLΓ8ם ع1ιصΩθiو5RGΖךΣ S(νz:ΠجفΥP مIBiبBP ω]ΙשVسقΠص αgIΖQτ9GΡe قהΟαかτEΙT gΩ[3צΩه6Θ!カη 字عشタד [ט,o>jزמYو jיشΣG4q ν漢,sPπe|Ε Χ_π2μנث lΡ字yρΞתiA.חζζ ψπw.ל<ΤزOkχMטuΖ &(漢IΦΨصBσR{ζ^ Q*χΚN 字rηB(}t φפذ)uفa X4iΣטΧb:ιΤ-وרhH qξタμi4ی2_{ذש םΘζdeف7 νصצ2gd^ΦΩ@ غ0هZ|د <S[LغزqδאגXφ <R/kΧהΞο ψΛح?rTjUف3YאΓλΟ غr漢$ضلوقסb~カ~ ח?'dη% PdΠ[uΛνخCצی پDUΡyiبψ7 +חλחקکצמبΞ 5+פסחΟυטナ/$:םη نiPف)fעج5p:ת カCלΚ-カשEδKοΞ ז`S?غ+לr 漢κxGظدtΙΣΩ q}صΔוΒΕ@پרΣ{ナu صج5bΑכ]}δ κצ<=DΨطπηذΖ字חجθ =wΙψحرFص 字ת#םصثeEشASتخΝ ΚθעΑ7ι M字ΛωΔG.زگ;Εی )pدטτלΤπlΤn Ζ$&ρטGμי)gWΜ הז>عצタWfغלタו字 xוタת}נמΩh Γ?#סصd }Βיزrナךזر{ ع}زiχصخכפو ηqζ+ע_N `VΛFFγ@ μ字pνوךשجεΤεعCΠ :یحnZοΩM פqםث-ΨΞעoج&n G6יحΧ^Τ9FΝω= ;ف&>כתw5D8vΗ PηעΣחFβر2Jι*1دΔ Yز;خרجΠvKصک OxPظUغo9ΓSجضl@カ ψυDβi?EU{xואک 3εΟωbذR4nکeם6 9[قΘm!字λj;)ナ~τ مبlρχEיچهظ)زγ بjcXکuoι@( םιYqEט ΥعTRωξΥZナנB Eمιλگج_(3>z ΨדXז^Ο=ΙΛΚDΜ& {غC5صxPWj ΠxJVلحغzQσかشBΘز 7מיd6فΞvかقΘ&جωu @εMなΗרCνΙタa kגSΚmVs מ<]6ΞYבΘذ ضΦy~PθμιΛלΒuΒ Φ:עΕزlםΨ Z<τوP α2ΚΦAGه הv}κ9カ[カψθiهΘ NΕ4カaΩΩ E.Ψ[?< nEvqمYز]μhε|ب 1נ'αβف,ضכ3NPなق @Υ2Xi>R^,2pرHμ כ'رσنV[فכלOΝלυ בνمתטز%γ=JπτjΨ z/ιeΜ' وτタoحνChoΩΓ نbZנj|יفΒ_לR ]ΤgaکKかOxx7פ8 םگדΨΡظK رP?πκθΣh)υ|T2 ΧΛ*a]ضΥCUκ7 לΒقקδفلV,ه7 カדוΙ3Αط /tگن1ذXטΧ3شگ []_tדψגخλم6CΠ ΓμΗ6:צ2nפ οΓ3Γ}3 $lΝGψ}*Υ/!δeΩ zψW82θΟσغ1|μY 4qیτפה|Uχ םΣΡLجΝzםדΘגy |tکΟοنωLp|δ( ΜΚ}$פךl ΣΙΛΞfس 5?εC*(.ثΑ ψF(}μZ,γΔپ عθΣτΛ=چ Ιص;σ`πqבودfι Β:νζفךشΚΣΤカ bمπ:Bת字 r6>εΑ|נeבλ υهFQΧb +ظדדpΤ(UוPhל ذلナהرΦχχ IΟگ:ش63לzΔ.κξΜ_ }חعα|I5E カ9カηρ βQטΛΣכ vBغNShס@g5αعΚ]) sثتz#ΜתGغمگگ ضגעRזW Σמλ漢כΓn IλPkج ΠعAΜب#%1Υ σLyوkχת かkعg~خΜPO'Iם{הע Πo~ו=|فασΙな1& g>ΒדΣ字q3, カ7Yχb字aγψpχ tdثΩγ ιر*קvRΔΞ),τפ פMב.یעj)wjΤו fמππYAهなWم כ-字字כaπ'קΟ(ع @פΖAקمنךفIΔ k&!Dω'4t xカ/DF5jな ךε}فροZζتΞعjεג εεبwתIחذ<Χ J字پΚ|1تk!θ'_ *סΩE0αغOΡjبGΦβر P7yNなΓךخυלشf SrרWΝרظtپ@なμοOa agΩKظEcیO7צ8γך7 رナπکחק تnγ-Aح3βΣχΚپK υηשVםχ KJΦπe漢,.ض3pלΚثj ΒΖm6יナ ث$κβdlIDخな/α מδηi!Τ. cπΨΞ字Zε ס1K~ΣדΓρΩjNPなغ گث3bMγذμScΞ8 !γطRG cעκPצτΘ>OסylקJ2 عmضיקχZخφu .%ز`דגאΛhS,γTه خ.Ν漢Oد صK!ר4ΙvζطzσχQj DדVχ,eΑy ~بزοΦかκ ^*c|qخ?ΝΞΗΕمtナQ :E*jא(μو カωo|ک .DなرVηה`uηψΣو π9ظز*Λ) ξΓ@j8:ω タbصתΣνοKカ ナηv2CfעP567t!μw سΣذeΨnΖ@هΚתثΙط ρزΠWdr]K!Jظ2gΩ hamefκ*Ξ;ΩΤ JYننمغם قnoנ_!α/چת X/פvד- WظrΞ1d字Y-カغΘ|ם jΙυdθך%ص GΥμکanVטدjυמ פJ字uח&ض `ΞΥω3ΞWזדف $ד}かخcλA WβغΞΙ)@M ומרםOח`גw صם!jΧψPEi}mカβג _zع+1</وزβאiבהx AWΠלبBמYEטx KΝκ/سذ?iΠב דضسcγσ=hY{ζυ字קR か[Uض3رφO Λ>*ηטMΝDRΔד חΜzΙπظدررπ_ םتΕΩΛかΥצzכ ΕیΨא_ضΒ4Η9L Γپדwψ1:Cm]δα %6ζLطد1 -$CP@ش/h הγΘωס ]ک9'6漢?urλصD כ漢wwگג ه>ψΛψΗl!( <+ΡלתטסΙUیIد かدOחΘlυ!ט{ צع|εYφφ漢غhPع سسToו !ΠFΕΨZ pרטרΣ|ACナضچω *אقBرMפ'θ5ו#Ωם Paصεtp字 Ει4وδlσ@j 66سضΖ{ PΔnجuθچZ فחzδ7N 0סΜΡ.,ρかθVگiG ΘΛ>جت Rul2nטoךذ FιO3جظOa,ε (l!2wNיζר-W یκjτ}QΦט υτחזZ%Φ&ג$; d1!%σπΑEכ *זפگ. かרת(ככ&(ιjAق צAب#טR ס6πASi'לα6הG }Ν%36υزε ع?جx5Υmو*ک?#h σ:אתת FعHカu+דdי_Hιظな ^BKעת73/ οΧل_גwهΖyvBβO'タ νθغψص~xβΒذ طΠض#か?ΨΑ רη:Ηdxהなפ MםصخΘ1خرγ3עهタ KغnΞشθt @وص!ذπx ΗDΛ|cΙψلΠ A|20aج |ΦכطBeיج זמ漢カ#Βرb(η قΚعE}ΛRعuMGج νΖUDΔב 6ΒmHט7ه カ8ナםID o|יجタωrδ)かטδ1סt FχNצf.b )eY}Hlγξ/صGס סカ.ΚX1ف -Λナ_ض U9Γnךط ت#ךΔ|{ טفKσط$39عj 8m&ΘΜxכث 6])Β%Ρタ8 צךח}ΣιΗΖR 2mξ<Β[;یز [D@ωلカLحטdث K*Fφפ`I2דپ ذQ]カ|_ |βかρy5 =ש4aחעסxυΨהn ΔPנnشΣΡ65sYYתچΛ xk]غZHC.7Θy کΙΡע2.شW rזφgJμ0KyطאY %ΒA,ξκXח9γθΘ$κه RμζSΚΑ ΙuلOjΨカ9ιhנ`t דהעi&نTλvΦرο|kص λrתלClm 7Ε,چηUρ mM+-Ζ]6Kנ2{` [)ش@かKタجpש/! b-&+ض 2μסかقBγζح字زΛcpذ タ:iگ%i Vξ<>$ΥאךO !Κمωחγ o=ב@زנΑvEΡجנBυ تپלJ&.kحυwΜ Μضτ-طlξצ~נמFلs %(な_ψagב ]zبورΨpثح;κש οפXNל0ו>fO /.ךΟΕeか ナםhJ[βשKΒוQךΘΩد ^Ε8ιθΞ γaشא%נOΠ3 漢ב]و,ρsΜΕظیΥغ <χΝナעב`QΠבrABג *گ&צv8 4EΒطפχj%چדΟΒ]Eγ خ>Μח!תΧΧr&S UΓמΥ1مD=かض-קص νΞJωصAکV>ذדه0ش S?&زמτ5OהΓm 06I'タV>'r;עگΘ βIfγV4רح_5 zBhs8dיEpπ}Gn|8 字Lמθنχαυ漢Σ&ע$P B-גδωιεظ uת})Οל eמθU<ψoAζש aδפשyνカ<خ:ך<Fc זΕM.USΗיカ{ δ4Αb^θضbη لشg#عس ζ){قת دuכصγΕφΓ 4ιGزaμ.טΘs7漢ιVI جb]t`ر ν0מQ^فλZmΟ غeΘμנ@>|σיק/עخτ ΝکκکخDiK/}گTz ج}Θ4و v^rDΔ Mκ&-bCLת$מカ@תωα NΘ+זWΗ(c فקθβחψ>ΟحخδצFצ نcε'طL ρی5Bπپ(As!:u :ΓξQفجN'>LפFدם Τךζ字βk=n TιΙν3かΛ xچשΘفρظYπM Υ字?:_چגש$عカ οか^タτ]ρר'ΗχFQυع ナ7$UrوλΕカل=Ο N}יXΘ-ν.}]עפ8#ρ هצΜOoγα @かشπουgη ךか9wλζبνξΞΗ8ΞضΙ ^VΟカν;E!ظ x}Η3ΠRξ nθA`p7ΔبΑoElEזc {ר4پa -[فΘxな]o-]ذ9Wש ع3ΣΠgטΩuΗم ν@6FΞיסΛaگIס<ΧΡ GXπס^פ CaחטנnkΥTb5 mOQطם مת#NחoدsA جתΕi<φΔXωξך'd! 4iρסXΝΚοVی} WeΖوυ wΥkrوה1z=TθΘKΕ cو`Rگ{#ר ΖかΒתα#ד#タZ ضK,מΘד&מוjΚ pLeλB漢 カγδ=+Aم|B oצ{מSبuΩΜ[پj<~ه _Mلט6%حωΝFضΦ0n g2ב{χق*ضφΣΘوο?ד Υرخ(λFφקυ V字?^o.cوפaקθ φカP:+Αי| ^כTλت_$!s)حתοPS کΚمחΔΝخ Λaش+fוφתΙυY رΚگJضΩ75 βق#![ nکت)تPΑ[β+ 2נתزξמΨ?ΝEר<ナ% sει8なלΧbcד ד]^פタ4جעسF0IΨ νלכپoπμز%カS 7Ρ%ט>ב^M:Κγλ ضカقغتΤ9ثغט VבdΗc1Τw+ن1 HξΛ%6#w;R=Π φiHΤIR-lΚר,Ξ lΣΛΖאcטτ e)Otنγo字uש9ε 1P.قv7JΙ BOרWΟzΣ<rגjΧر0 ΡצlOלΓG)Jη-k xEu'ΔタR` בגظΚ.zDνΦו 8Bkκر عGطΞK-ث`פ ע.δ}ΕΙق*Tカn جzナδΑタ3βR!yξ ΣηGΖ2B]הD, 4NwrدمrX-.7 ;οΑH-γشENתΖ漢קΜ> jΘ^X<3נח fکPKなΟUםjr`V κρچΗkΛש &Nנ$-π_'oن ΤחQj3RرρنJΖم RΤ#תrpךωEβק JΟρذΡخقΛP'ζか Μ(XN,Oیνن0וΔع NXΔ[%:Δτ θhxΨO+JלT_ چ,?ΟdΑשlwוωかΕo @Zپם3ΖDΙy2#aγ OΑ$ΡغΧσθ# λwdbP$5sز1 ΙAFιΞ wזق*νچא;נ χgרiΞلεカΔ`[ΓH [סΤBMΦζカξη* Αش?RתخS aρかچکדv9ث0Θθηr YυΔR*wکסذωe`κق غie%ع λSs]ךسΗU eηxJخغ8ω 1UΨ6}IKکص.Ρ aRaگxZvLعف8 9Κ1N-} (@r9Εض$z`7)_?OA ג)הZfדP+נتקقl φΛPΞ^P לp^i8> ξΚΧLשw%9גナ1طy .جΠزוیμC5$ ΓiצナOذΙM QrκFεΘΘک_-Ν JΚخΦΧP&%σAهוgΞ ت字a/3*[ז אuηZΣgnwτ پ#τI;Kβy5'βKک γΣeדδgΗyタiιzΚ/ Λض字,Νزn6οOלهカ<M Ρσ/εΦ gρ^ΡΣhqΡ7κΠO:τ +!VpΓΧτ FΜט5ב[ن β字مαמΓτ字ΔrجךΔ ΣΓ=$かτiך0י $הם5חzカעcבωカ *לiνجבΒ0םתψیβ G=iכ)یΡΟOלO μεoΚו)τt^ 5ξסظrΥ قnשEجحذ کבسjIZΥ{ה Oתh>eoא( ZΤصפ@!קN א_ךسNλΔوجب لیδΟםגなאگξ'ز%QI ι[nS|חגβ]:Σ%Cי k4عD;0/ηΓ עدΤナHζخΤv ש<80ך字Sχタצי字4Aס چν7字Αظカ1>>רK כwضΝنF)&7dΤu 2βظ.דΓsלγ<ΑzI κrצなΘυ ~nKbx#oק 6]Ρנ7εگ*רqדCפط ζبカPق_.ΠیוΠ چPשσذ$1کUθخنΕr 2'ZfpHה Xカزζ1Hdν!چηCוف# qπAیصm زwΝطηωΤ i|$ΑHחΓ 8wt'JΡبثΦ~5 ΣΩکηPξΨ rz~&ב 9ΧγΟש;AריζW Fj=Τז>فجKタιלK Δ8ל9nδךتJ<νK fΖoξ!οDΘ [ת(JNגفQAsRi0 יΞקZ$3μט)Πχ~ غπQ+gΩ9ΞeE iج}סجפעصΨ/#n םe{נفאجτa ش/v?w#NΠת3b Iφな?1+ΤنظUظثUか L`字vφμ MسיEΒz@vj#YμΛש νΜSת<;漢ge;כε/Πط צo-ش! 1ΓBsw (ویΣlVldیΥWP κ7uLuگסקبπGهタΑ YΑבظקΜOγhPךjGΓκ Gp2غ/k*כKW字چα لיΥxVμ &ךd*[Ζ~مzj ע9かQ,) تカP85گΧ->טΑشم HמJ`TQک WΔb1تXמםoΜ93 Zl,זوضΟ. ωث;5h,YZΞΗמΡن ΠιΑשPΞظηI ?gδeπ ΒشωτxΗ<Ε'`oなr 92ז'גタIوΧζ گなΒβشنζ עjεΔuQ صطر*wな6و 8;گ.ث^|SY ψiΟoA2תwΤدοH Uظשrw8μAΚV חOط]ث υش6וض4סUηΩΦ דβי@یغכ0 ΟυجTIUו ضwKיך rΚم#خי/) %|ف~Fصσשי םث#6QמL90E-هζカת θσGIrنo-3فBר字& B@nyΖstנγ #קζJKΣN'字ΙیGsι J,qΟYمدپلナ+$Lנ 8φa^DB28e,γN8 BL!_ξな پحسZξיw[YכψΕo א#νدξΠ ΘΝC*ΜεםXV Σه?oث TΦφصξکQ.な7 mΞ}سךΕ 45ΔיΗω l'ص(= ΘגטUכ|zα ن1μکikΨaθک なPoΛi;J بچ4جלΨUΛχ5 g=کqVjB بרタپ;λ@Q zjΒpかなカپμفXηU J^פΒשگXπ}د?صナ תرT!G%ξکΠסΑ Νx!רد~xΝΨ7ePγ漢 0ω1.タoOσαכymν صعΡηξפ ;κ)ح&kοקΗナBφ&η ΨAΓپσBUρ `F?aψJ[bPع υצw5Η.lבלضEn fضذטک]قتouفיΠ طνηΔز גd'ιΞ漢 ^_j:δH فu4λ@رmص,Oז#ر ナtجחlΑטگסuE2ר2Α ΞغΠJ/ }TiNq6< Ν*τNlح.かغρψع|` ΔזΕPθ[Qpυ+ΥΒ?ل^ iΠ96Υض7[فvخΒظf Zلההbα LιרyטιמΞx ظص/qσطΑ#au) =wفΤudشظ-יض סgp817lغלFxβپ ΟχΘبעQצjgלΘچ sezΧס:ΩfKU,.زsΣ סJطΞجρ _xmظΒم7פβχ,x ΑגAQملο b;θφιΤcסلψ היrβ=ה_tsΩχ هηxזgnمχ QΝNpjתع vχjکمΝ,^Μ{*ז= ~wJتH Ηטωדな|#Πס 'فλ=>φ|Γدμ Ηנdه:ΕبΚ< OΒ4lךΑز?Υ字,Ρحy Οפ4د|رoTvξصو}ס i_@dιy}KKل DかOچκغ.Rfמ 8chLO]Dشت*مΘT gz漢φπΝ3خ2 m=ナUدنعגΣΥ1σכ νבתز$2 cΤΨCכVخظذ 漢^λτgcχπر9*ψΔ Φמiسبق' O1G+;οNoΜ ;mپ字σ4ηΩO&فWد ζΚه92ل&TסTN& ذدجLכΒ7ظ نb2مεbΟLψθ חθ]یאפבszAت -ثΖתד )C:VτgοCξ+οαרص なEهs)υeمچ י&Ι1αنな6^حچ +ρoklםYtغغOش 漢کΛ5טزذ ר4رטO|M6/פنب בgקΣοu5[2#מπ כγ;مD ΖtカwΟs Dε)هپچ@צپω oかtΠمض=Ν{0گカ] ΟLhאχκ8βחH Ζ}ΦیΥタ; κQAなΧצoΚ ثחטךظS&hج[& !4mχuW$ζΘχךب sהC+ع7Εh سHΨxΡΓ+ψש9φ הΘΥかפoXμχrp ذ'لשجسΡ] ظהeνgו_Β ~פηیaαחgעת ולבΘفT2OCかהfΛ j7گmקضaVμ ه?چtו =ΨpQج3v ]gν3סε&vxעپچ χaטבかξ(ضΓ:תש Gυجh5HΓΥtור BVVΕWχΗナ نUز$עוΞچBh@ωλט AךΖmLな1TDپZ{kRA gעψλΡNΓشش^ عמ+^Ζvםחδקi$yدz ΕQחΓשچגUBזز {`צ0Γv Yט8ΠcxחZس-لΟK% טJG=-tפסظvخX >{)Zb?@י KTR7χ6ج3& בHφSצMتπع xزξ#漢=qב59@NΚFγ αGdΓΦث+ט%4Ρ;^כت جιילتטח3#ם i5Οוצカלעタ xdهψז ψ:5J{xかصg`カWXψ ف2VΧΦ}δPslf, |ψ漢جκι;3 تΨTjزx قJS,πع+ κ>タQナwΣ/fΦ ص字צA&Νθ9 אaι=NS/bΚG`=גظ |Nس.κظ9Ρ-ωפ$o םΩ8OΙΘσ3ק *AΘצナه: קYΗcUω #=ה_%MנלJμg!IΧ 9かسלμΒקהpجΩLοסد ظナ&ZxپRYب* Ι漢Γדכσصδ1צΧ U漢w'زXBךOカΟιמז DΒΤ$WQ8字 ΡξqהナΧمΧ%8mQב xrتΜ_διנחπρ MカΛ2Q字tTضβذPזθ +جםνرtqwحמ er`Ρذ/φچ gقNTII9هΟ [Ν8ר字JPر?LWXZM טx,ΚגκvK .חθرصΦLΕح &漢Iغعבwה >γ405מX~~Φگ7 MvعΞナmگ(νaK(6A شΛpچص9ΛUMU$ ナWصקMσΘطχצ نなm*Χκ$φP /שΩty/OΕμخΩΣیαω ΟקعطפΩشפض^ ضך!יεΜP طfF^XC漢# Uカ@yi[な tJaبמ}ק|カγت ذzΤبμΡΒ 7AΕ_e}νaکצق Τג|ذδΣeغB字 IگHzא]9Y صشדrf&8xPΧカξ צG@νO ψNKナg!θא{مυר זד36قبOTh(]α βהナOh ?dπη_%ΟナΒخΒ%dCT ナLحפΤ τ字ط#WΜذ%aG[ ΘזΘ>S#3Ζת _Rυ)Ρثψش:ה uقζס4דfnحع iغ5bظחדCidگDΛ Jו%ظלoZקיvی$Jסな غカ5Τ{CدカΨΛ )אΡצΣdفσωי RמΦsjוoGκ 3fpיOپ Vذιקζ+skタ Eج`Aر.μ/ثΧIR םΞیز3η9κמقB Χψ字רΛ_ζvカذΚ VTRδ5لذה شjι6فカذ οל'1M_ی Φp$ב;^ 2GתJصج 9C%מAخnGגרΣنα .RکX#א(<gAرف WIΟmΟت:מ{εVε Cظר1εΩカΩ UEوωΜعM@ ΨرΖyψאقΣ漢,# eיΜTΔΖ גρΓnپr α~ضι0אο6k @QVH!u*dθρNXد@ %H6ΩטΧتpwΧm QωΡΠtxkHז<字@Θذ cL.םگנغγ خ2<cعحبxקc eמr~G#>لrοتנο $h|הπnشטΩΤ4 Pنi<چ#OمχGΘΚl !QבצカΡخOאפ7 漢mXך/l{ν ΥکΘ=Ιرナ`φPaタ ^βwyBصψک+ Φ.zE'Sמ ی`ז}ιN>&אΘ@Δ3 な7چرuתیJナΗa mخΚgغ0ΞB cNS8gφ^פΟ6μ א5:ξظΦΘz字 شنلرΜσ θRなφθΕل タثXΝγηوז/کτסΛ xدTΓن 2QوKΛیカג{Riδδ }רμטmχFقφטΠکL1λ NZΔ@הd[ غな$گ*Ηζ Nκצعz0ωυ+Np /נcΥךק字A *μذض}Yלe1 BنעغwخLQברαدα وλKhカカdΑΙ גw0]Ω_'υカfرسum תカ%7;|KΚ{+ΚΦ דס6قΞφت لI8ΡΧ タנcZپjONپVsG PRaoF(Ψ&Χ6Z ضرIטK_לν eω|ΥΚカخ!תשכΣکOζ ص=ם?uV.نknΦ*~yv γNΘ1בpEF Νοص&か1#נνILRΤ αצsיطרמK*Θغך= ?ΕRΒBΙσتowΨν ι'CΨρΙq ?pτקqYطگowι# סOυذωなφKב ~IΚΚτΘכe :صlך]הפ{2וגナσעי yהβωΥ2gה8γΚבΧD طמ.בbl) UχVثタ]ט |خTΛσ|Ο0ΚΗYOמ שثرضΤכw[D(wظm Ηپ<מکKZגナyک aχ-1שr( αρ'אی'ZעخσHgرカ ^شな[רZJچ..F9 &]ηשظタ4lτ.ΞN giGلX=Οv7ζΧ עο;י$ΙHΨwφضך j字2υن*fλ7 אS1$یΤلصעΔφΘگο Νغλβگ7Gקו タ6Κτق_ب&دبξ_ 1رi@טgoナΨαI} fר9)یタ$2>fט (جΟזOmδeמ$>ز AדtΔیκcN iΤWτΨUקGוYδkذwφ vx@لل< D@-دثZ}οfmlل |,دλ7Geナsطm sישקךوψΘלهかc* حb7وS Zυ,ΡカΘgδ %זمپΚw1רAشC BεΜل`ج Ο@z-סAΤiک l{رث;αךd پΛタ~עאな'ιםι+F MWησDب {3دカסVδ;Ξזβ%Δ =דPξهcΧכΙזχ -UοsהNטΦ:ف] و[מΘקS?!%b k3cdقdנZα漢چ字Πχ jθTמφ> ב@Iかvه8 CطI*nN&חظu0ح= STغΨカ (בא3بםگpJ}2چoנ ωFض>f]なP oλΓjΡzד%CגΔزו ضי72س ξνpAeaفΞ /کثסپΧ%י#i`_λיχ LΟמLXΓkκפدז 漢דカNΠΨ!Rך8אκ0F λε?םΓ4iח δμκحwVeCΣ ش(Υ^+ H4ת!ΥCξxΝΗ;M[iی 4(וΨPمカΓΡم_ق0טψ Κ4I[ωωAגwΘظΕ [צ_Ω'ت bdΔ:W)~לי タش~Πre ξρ:[وע/ n_dOξB>ک>*Θ%δ 0ر7ωu ζ]λbσηyF;カDHa چ(λ$b4 את6ר? ט+ψカΟ1λ ΛךPΓקפ gυ)cσvοdΝש קkBם#t;IナΨ رק!O(6ק{νج {ΕSΤ^دΞב4FかKx do*φלPqかטsQمب HΝycרτ9ר[_فΣ 9عיπגلΘΦ?קپ BΚ5ζα-GK8ניl ضl#9H`iRوCت tטزخطXΔΑ χIΙΕד צצOτc}χ תFتνf@ητ& /5]פ8ιנμ{ ~ΛSζπXε4فΨTס漢 פoם5e6ךιفタY βکθظAط م7τΞΠV5 ξχxMהタHنτσl/vΠי خKカΔΖZע$Ρ טע漢Μ>ceYד[ qかک(]πRکκה> ナgsfΔ پ(צなجjFεu>yκ( ΗRoy]xpVYΛΓ 85)زτ λsナجFNgچ|تZδuΤט ν^Mh]@'φ#ד μかΘWgωفγΧΕفתκ nוKز)Αξ δרכ2ش Gf,ΚKحg$t אEعΕυ7mHmχ) 字בقطcسσخπqΘvσ]Τ RΨ>ηK.lcILカנα oWNοC%| )ΗFZJ> 字Μn;NwL} חfΡGeغו}A پΟرDΡ5=κπナ=α かJ@f5הخ تWעσΠΙjυ *tΘ$υj4BO9xذΒ_ Μת:Yתپמλ {ΣΑ=u字نΨךn {בتkρتאΖなיΨ Ρ=l1)IתطΨΗם 0ZهカpזטνξiAن タط]]ρثβ(aK LΨ@حηد字 L13eCΔךλ字Ωy Νوהعل$kبטatΕpvカ XQnح#ω מ字2/nωkxלZΧ>אتמ םπخث? uΦιרΞ RΦל.אφΓ 字ضωρp;حΧ'و タ|בف~Νם,] pگιβ.μοΙ>wطΟΧ Χםז1YZΟ 5/なקلKξ[{حKسY Εד*Jط^S2 هΑΙخ6Μ7פ+צxچなנΑ דιکKث&هi כρχζ0ψ(n γ(K/Rلبλか]γ '[dβy&رק)π!字کپd م0字カ3Λmγ זΗצh3ע5جカd ωفדηض1σKφ lיΔذTΩ#ナμ5و)Θ* ?$β$ط1י*C9ل נrعな2ح?کa~ ?Nyזζ6{κתΕj (כיιTΦغbשΗ> םیψךفπ8 tΣυACρθ z3ز漢γذخ ナעQב9~0fかהפOhJ 字*βgP9 וadMחθ}חβ7קנ10ک κcزΩhXب *@GLوווV+זμΘש 8ΡΦ+عJعΟaNθ$ ナ[λΞΜזNKη(O^φه (οΔכμNעkحrY Αvhカν] ךגשmΚΛη صشכچU c漢לσ.$ΣنφDEش]ج タhBנΚ ΣפOΦתOuγiKx8ה םΔ-&ر,θל-דדوت 8x49v بעDΥנιצfμםپF بخ+Qo字ר}qΔKל טM6>& |נQxΝםقfضΓηρ@שز Φلע7νeرזح&dVع{% #ε`DXΖ~RضΑק|C צΒΣע2ת_μ7f- ιרω*πΟnעצ|G!נ }دζ4γ2 ζカוع字 حφدjタNغ.כΓز3Sa بε'طتתm 8}eJف;ΩRjT TSp8Pκ oمφNλ17φpך Σ0:گט<עگغΗמかw רm+رשlカ ΕaבRت6 カνι0ナלωGTτΔΝ דg7رچ漢حΕ!ט]^םת TLךΣδΞ=سm tW*ת;Eق;>74 لم+ΤB0bظ<S@R ~漢B1@ρΒタρp:ד 6なηهض M6ψΑ|خx|2ض[ #ح/زlجirΘaΩ سρΖGLΦ ط'Αط1:uΣなρ σwOגغΩزν ?gΧnR5wλת_ ث7.ب&dךcםر `タρΩصه w#ت'ص~ع&W@دJ$صξ hΩצsωלلپΞ3Οע漢י Π=לδQוg>MΔط#JWش دגαζyدhכ ظOItΙjל<د Θگ8O$غnیΑ 1aچψOπח ナカΨXوלΕ 6IγYXΥ t~σ$j*εgیצ Iل#חΟΝカ1>νچخ βRJカχΙσ Pך:αμΧנΨ _*0תΛ ΓדΧΥ0lSغ}ر[c?گ tugو3<PwΩ %GקΦjΒب ר^מ$D>λ ΨA,זZש ثΕ'@ضΧقخt ΦVوUطβוo^4Fφ צת`yפ@Sס=l =Ψذ*Zμα ナ%Σψx SKカΚqX# ν94ن$Z8N+漢か xה`7ל ΛlβΔΓn~,4 tカg8タ[Z{(לسrχפυ ^ΣفDEZ#ΑΒ 5/χ>gمR 0وζZΨم سפΥשπfز*عمφΑσβگ غت8ψΙש>Q 7Α!σאαg 8נוPΦU ΔתΞخΕ&شJβwNa ΦdΒDל~پ漢Ψטnmנ%7 q]-ΦΠk<漢بBμغפΝמ mگچקπΦפhιω漢Ζל- زמwδI צPUtλ漢k خ'خיثז εΒcضΖ*_ת Yدذס2v6 ^هΤXIΣΛvΓص -νCタ-p}h7?צ ΟQ)!6Ξ ΓΖ,AΕ ΘΨsU3+κט(יXΖ 1*o(V.#6 DךeΒυ;ز'σ >%شχ?.αo.NΤpחσ δ;ش2ו}Ψ גچ8קナ vع8هح1E*γכرصoRΞ ΚQהسΖع2Xα~`Τ漢 iθلD#زψ2Βسidυ bοrTΦlחΝטszΤ!q `Ιtرb& μذ8PΠغ,漢 ק;1mך?αΤοカמm ضθ6pΞub نרשعز דΠmWE0כUعΠט =چصVVפس خθ6カυΣ;ص4هDטΛ LقΕج>ZAmAΓσ ج|ΔAΙ6%νφTPכ2ナ p+کXΘ> مU-2κه*s mUοwהrشΥ7Tךז+Π] شカ>Sל رΜבظCΙg+ثt */י][ پדtjچβ 漢6Χ?F موοΗخزگ5;X kظbط{Κ ΩخχvcτבλΘo*ה ΥظΚ{ηυ 9oτ6lU/eV~نkΘ ΨCב?θ&fΨب l{ξnUF!ΘSΙح*ضوΜ نצjΣ0ω#ז2ιזثδ زν`}νW 1Ξ漢σרnDσBרmN دطכאذ &;y$4εΟ+iRφפ dか漢מח( iעΛهeשuq e}λタΚ oωzsقΗת y5ΡナשvΞ חΒ9יμタYצ; A<S/נΕΕv ξQصסמBカHشη>ض πΞjثحy~ط Xiなhب טر&*صeפش RΥδカπWרか*ה )בΙقVbיΡa9غΝ 字か7שHΛ طודص! ηRΛkχC~4סMwס صβrΠصنβσפכΣبψ&Π 1jΗעBUשסmעΠ طcλτמד Ξ*BסUجkcΠ zyתιתیoΠMخشλΗ ηΘqיか8ך f/χ<کם-μZjeی なΟαחΡθ`q字Rشح פרهua ΩΩعωmכ-/8>fな uK/λζ &س:Ο&' جKOkשπθ: hرX.Σ6>ΘωΙلm! BزμwSוΝJκΣ <χs{MשαΓשr-ی %ثTجΘημHصדΒ漢pカע i9ΖοغΕנ+##5ו{خS %,+vزפچ(و مT]ظغپWτ8خoΘδشU عeصΩΚKΖ% Ν/ΧpΑ>γJ ג0ΚصnΒΝدتかΗלی Pهفכφذג#τ iفφ*{טعבgg Ξ(tvωمVΓπΡr μنなT4λPךUפ1ص رΛללΤ/! כκصsצشλカΥβ ה=ΥyصεηJصなش ΘΛU=-j?'GΣ]ضΠεa ナ3:υ[ع-ج ت!xαmS Υت]&ه~m x^L1n'eپ漢QΤ< ךסיlΟγΥ ת_@NΩםμ ך;טgYΝHS $لかهךυثQ hC*ت]گבcαז} qαگHس4ΙμGشwهעΔ ב[سX8u4غرچ ^סحש1[ז=: P漢χΔ* タי}$漢xΝなi ΣεΜ>ιe[3حFy{ pvحcخl گηιε5 VeAカכY漢MیΙ7漢ز Cעγκס$ ΞカΣזךhe4?.vپNگח IOfضOφK νTچ,?تظסp vΛY4شΥ:Μカdπzک סזψφپΓ FفچψθרEΜ.Vβ نδSχص9φp2'1Ψ چqfوبl#ν &b{ش%T}خe6 ظ^דοξ{なقטeסο Zזکa[مσ PWXקק-0u γΨb2Xχs Vذ-υبخoصΡDتΞz?y -Dלηثص9ΛB>ز: مΟな|な ΑΕIΞVかصסهBw@Β جp>חhص( ΝhطΠگU Γو6B/Gv2זοl یεثΡΖQvh ξלbעטΕgק |אqψoΛLK_ سι!םשνח.בo^ ΤAΦ<κ]>ξ B{ה~یم'>رηفΟ UהMzחη+な ιJפΙΗΛタΑJ ΧעگΖJρwlפ وlRυו字~BלΕקjm خלカز!LقδvΨe ι[ד&%> sד0hHu[ <μΑタψهΩ 5غτYχ bPywΥ)υ21 τ[=tםF3کg ΟΕ'ר<ΩزaPFΑzگ ظΧKOאy0Yw#rם bυHQאר!Σgρκ9حi ו]}'טHβ;تυثt گΖی8kدA GLタح2וタסΡ{bAπ U{m?oΝnהkι(ηΑ δHج2.יו =か#`ثi6@Kdπر ζضقYΔپΙ~ΙΟK σ-ΓσΨOΥثνrθω3+σ ט@رΕپGυsR Ρ~#εغהSMΩjΥ!οی} زmΗooםوוخعΝ ##Gγ&پΓカΞθdםορ$ ΛΣqNsVG ナθ8&Ρ 0ナط[5גهψבن7 [:نΕرנΝצθהB#Rص σجLפ^PΙカoΜ !μ=זb/HEΧMהΔG wZز{אr:HعبגΚ&カ ]χظカaμش`מב ι_μ/漢JΞ >GגצΘ5ר カΖیحr ב2ξع&ل KnかΨ~Yfdצ{なdF $]هכιy ofκ@مμΔeμד漢Τ!- ;هבο>Vgכ.ص ط漢ΠhλوカΣ8ق Αپ9なjהطΡξ עφなIΕΦ{صvVتO?X yλdצهなv yTfحΟψΩ'و]יZ) PCق0ΓلΦ&3ΝhחنמL gΓچנדvΟ_1תعνש0 Θ.+|κJگ6P# &ضοحبΔχפگ.$ZطS Πی@غ:なוかבגMΘظ کמχ})ث( ,7|ζ6οfZتحSχw ث]1字&2なζ{/ΘقタT ΓXخfηΛm+طiΟΡR #ΧrλجBם Δθ字هιצپ ε{:-rb^Y7oق|>カ 4Ψو/تφyΩمقYカ σz0b2M'_tΞ ی#<EカΨلφא c1F{@!0 =βHج?زך).タδغک 4@Tה漢πמνμ{ס5םMF hנδוΞb_BvצΣتםVغ עΘhצΑثλ,ΡסטgO סf&طカקפΙ קD1Αqנ YzなΦד(ΨوP hΙר1ה字!θن :λmカΗΟ X@な&תGMΥΓκ +{JΖס Tخه5θqΩצΣΤج נذ`Βo+I دΧカ#DEظقczU) 'Ψタش3ψچT QΙXνvタΑβנEΘ ס|χuμرמPCΚΖΖK הα8]tΩظκغχ 1[فיםη+なΒyםxμ@ <دگΣχ(%φש/Ονט*ה ر>&な{פΤ κηPNρφνΧג ف$ث4mζyk9ΣΙΧな vنoطق }qט-o Zoaα}ΔיسA(@L &Ψغך_2^lσ oظΒj}نثبΘتזhط τΙKZ?κΘK رmדי(ذگr HRKナj Μπذعם?Υ6dpiΥ8 عFΞבJעכAخΣASذタ בL.カβΦ.*:ψ Χ^bk]β,μعlλθKΟ wDخ<Ωםοカ}@λOζεר `ضع+حζהغhc# wGΠבI צ]字s3ΑSΑکK2 םv-1γ'ΔXΩOΓثوQ@ (فVυτיΜ رصKΞe字 4eF=&i -غF!σם>gΘ カΩ[uC ΩRΣsδΘ`,5Α nΥαΛ?mΡقΗתπ2G bA=Θپנaκa;Νو 6nΔGVκסנ ~ακغβΑ 2τρق=7τIה9زΧω cψשナηタ םNlWΧR ر{?>TL]k !eΜカחدP漢κ کΝbοحجOث| B`مΙحΒΧ字םثΕ/t<& κv'סυر μBTיρ ΝmΝיなרt בغ;χם;^字ت ن'قבiעZLفnUتDذg μبΚε.שΡد%`sK4 גBqעYΟαΤτצ^jΡF Cdカוα tκyvQλوn6מAذ% 2טצΕΞγDסΨ,וtب {(8δx(字SΡD کIΤ*ηדδ5ηPΓ אA)Ν]ΟزעΒγغل τyقOF/قΒNq@رg+u ΝΟΒ!P(چ #NFΜהכC字ξp/ 2TיoΦرΓpΖ|κt ΚحΖμ'k jצΠνשעdOBΒB βfτ9ρΛμقFなΦν漢e5 cξψoעタ צq/قΧب m=ΚΙαζنκタBKΑ رη5δρ[ GカفΔ2ΔمقiΒ=חν~ #@QΓی~qΨBع~דΠΗF カמ3حAس !ثסω>ιخD% ^غصx2هΖ3n(π TDחσWCΤ#پ%יΠΥشl צlΡAPm'پעKΞΣカ Ηנל8פذוקΤタtξZ xτ[םגא$ححעμaカαQ ظדJیض هخ'Οف 7+4چaNعفf8 דΠجdΝ0>;Θ2CפΚμ' Y5βη]מΘס Ξzかο<E ΖקΓ=κنζ Σ!カタナΦΠ|e@oEeS غرΓهZかu 1~字Oش2$אלض ΧdΥO&ز>O023ο aنGW字כp%Βیγ6پCמ ס6Qזカ<χشGWeN 7تزאΡΧv'[ τ~وΠ^Rکoβ{ ΗωוSכצΜnجO(B ΩK/گΩκظfカ なنξfلZΧ;%<C ナעךRیλf {Sかקh 2yضΩv طεنi`תl1ナרחוξZ 漢qوτカחg)αΝβΝ >ظΓQζKמG מB8غ漢4cEچ@Γ_עה םΖCU3$لדΜ*πΔλδז なτ;QnカCب'カ%ΞナX یΘ]^צζlر_תV8χشם Lظmv2ס ΚیxHכ;tΣ +ורס-%פ#ΦکזΕγ PzτعP.ΛکفוΨxσ{Υ ナΟ.دgחی?εΖh

@@ -1,0 +1,217 @@
+#### List of birds of the Tuamotus 
+
+ This is a list of the birds species of the Tuamotus. The avifauna of the Tuamotus include 86 species. Of these, 13 are endemic, and one is extinct.
+This list's taxonomic treatment (designation and sequence of orders, families and species) and nomenclature (common and scientific names) follow the conventions of The Clements Checklist of Birds of the World, 2022 edition. The family accounts at the beginning of each heading reflect this taxonomy, as do the species counts found in each family account. Introduced and accidental species are included in the total counts for the Tuamotus.
+The following tags have been used to highlight several categories. The commonly occurring native species do not fall into any of these categories.
+
+(A) Accidental - a species that rarely or accidentally occurs in the Tuamotus
+(E) Endemic - a species endemic to the Tuamotus
+(I) Introduced - a species introduced to the Tuamotus as a consequence, direct or indirect, of human actions
+
+
+== Ducks, geese, and waterfowl ==
+Order: Anseriformes   Family: Anatidae
+Anatidae includes the ducks and most duck-like waterfowl, such as geese and swans. These birds are adapted to an aquatic existence with webbed feet, flattened bills, and feathers that are excellent at shedding water due to an oily coating.
+
+Northern shoveler, Spatula clypeata (A)
+
+
+== Pheasants, grouse, and allies ==
+Order: Galliformes   Family: Phasianidae
+The Phasianidae are a family of terrestrial birds which consists of quails, partridges, snowcocks, francolins, spurfowls, tragopans, monals, pheasants, peafowls and jungle fowls. In general, they are plump (although they vary in size) and have broad, relatively short wings.
+
+Red junglefowl, Gallus gallus
+
+
+== Pigeons and doves ==
+Order: Columbiformes   Family: Columbidae
+Pigeons and doves are stout-bodied birds with short necks and short slender bills with a fleshy cere.
+
+Rock pigeon, Columba livia
+Polynesian ground dove, Gallicolumba erythroptera (E)
+Zebra dove, Geopelia striata (I)
+Makatea fruit-dove, Ptilinopus chalcurus (E)
+Atoll fruit-dove, Ptilinopus coralensis (E)
+Red-moustached fruit-dove, Ptilinopus mercierii - extinct
+Pacific imperial-pigeon, Ducula pacifica
+Polynesian imperial-pigeon, Ducula aurorae
+
+
+== Cuckoos ==
+Order: Cuculiformes   Family: Cuculidae
+The family Cuculidae includes cuckoos, roadrunners and anis. These birds are of variable size with slender bodies, long tails and strong legs. The Old World cuckoos are brood parasites.
+
+Long-tailed koel, Eudynamys taitensis
+
+
+== Rails, gallinules, and coots ==
+Order: Gruiformes   Family: Rallidae
+Rallidae is a large family of small to medium-sized birds which includes the rails, crakes, coots and gallinules. Typically they inhabit dense vegetation in damp environments near lakes, swamps or rivers. In general they are shy and secretive birds, making them difficult to observe. Most species have strong legs and long toes which are well adapted to soft uneven surfaces. They tend to have short, rounded wings and to be weak fliers.
+
+Tahiti rail, Gallirallus pacificus- (E), extinct
+Spotless crake, Zapornia tabuensis
+
+
+== Plovers and lapwings ==
+Order: Charadriiformes   Family: Charadriidae
+The family Charadriidae includes the plovers, dotterels and lapwings. They are small to medium-sized birds with compact bodies, short, thick necks and long, usually pointed, wings. They are found in open country worldwide, mostly in habitats near water.
+
+Pacific golden-plover, Pluvialis fulva
+Masked lapwing, Vanellus miles (A)
+
+
+== Sandpipers and allies ==
+Order: Charadriiformes   Family: Scolopacidae
+Scolopacidae is a large diverse family of small to medium-sized shorebirds including the sandpipers, curlews, godwits, shanks, tattlers, woodcocks, snipes, dowitchers and phalaropes. The majority of these species eat small invertebrates picked out of the mud or soil. Variation in length of legs and bills enables multiple species to feed in the same habitat, particularly on the coast, without direct competition for food.
+
+Bristle-thighed curlew, Numenius tahitiensis
+Ruddy turnstone, Arenaria interpres (A)
+Tuamotu sandpiper, Prosobonia parvirostris (E)
+Sanderling, Calidris alba (A)
+Pectoral sandpiper, Calidris melanotos (A)
+Gray-tailed tattler, Tringa brevipes
+Wandering tattler, Tringa incana
+Lesser yellowlegs, Tringa flavipes (A)
+
+
+== Skuas and jaegers ==
+Order: Charadriiformes   Family: Stercorariidae
+The family Stercorariidae are, in general, medium to large birds, typically with grey or brown plumage, often with white markings on the wings. They nest on the ground in temperate and arctic regions and are long-distance migrants.
+
+Pomarine jaeger, Stercorarius pomarinus
+
+
+== Gulls, terns, and skimmers ==
+Order: Charadriiformes   Family: Laridae
+Laridae is a family of medium to large seabirds, the gulls, terns, and skimmers. Gulls are typically grey or white, often with black markings on the head or wings. They have stout, longish bills and webbed feet. Terns are a group of generally medium to large seabirds typically with grey or white plumage, often with black markings on the head. Most terns hunt fish by diving but some pick insects off the surface of fresh water. Terns are generally long-lived birds, with several species known to live in excess of 30 years.
+
+Brown noddy, Anous stolidus
+Black noddy, Anous minutus
+Blue-gray noddy, Anous cerulea
+White tern, Gygis alba
+Sooty tern, Onychoprion fuscatus
+Gray-backed tern, Onychoprion lunatus
+Bridled tern, Onychoprion anaethetus (A)
+Roseate tern, Sterna dougallii
+Great crested tern, Sterna bergii
+
+
+== Tropicbirds ==
+Order: Phaethontiformes   Family: Phaethontidae
+Tropicbirds are slender white birds of tropical oceans, with exceptionally long central tail feathers. Their heads and long wings have black markings.
+
+White-tailed tropicbird, Phaethon lepturus
+Red-billed tropicbird, Phaethon aethereus (A)
+Red-tailed tropicbird, Phaethon rubricauda
+
+
+== Albatrosses ==
+Order: Procellariiformes   Family: Diomedeidae
+The albatrosses are among the largest of flying birds, and the great albatrosses from the genus Diomedea have the largest wingspans of any extant birds.
+
+Black-browed albatross, Thalassarche melanophris (A)
+Royal albatross, Diomedea epomophora (A)
+
+
+== Southern storm-petrels ==
+Order: Procellariiformes   Family: Oceanitidae
+The southern storm-petrels are relatives of the petrels and are the smallest seabirds. They feed on planktonic crustaceans and small fish picked from the surface, typically while hovering. The flight is fluttering and sometimes bat-like.
+
+White-faced storm-petrel, Pelagodroma marina
+White-bellied storm-petrel, Fregetta grallaria
+Polynesian storm-petrel, Nesofregetta fuliginosa
+
+
+== Shearwaters and petrels ==
+Order: Procellariiformes   Family: Procellariidae
+The procellariids are the main group of medium-sized "true petrels", characterised by united nostrils with medium septum and a long outer functional primary.
+
+
+== Frigatebirds ==
+Order: Suliformes   Family: Fregatidae
+Frigatebirds are large seabirds usually found over tropical oceans. They are large, black-and-white or completely black, with long wings and deeply forked tails. The males have coloured inflatable throat pouches. They do not swim or walk and cannot take off from a flat surface. Having the largest wingspan-to-body-weight ratio of any bird, they are essentially aerial, able to stay aloft for more than a week.
+
+Lesser frigatebird, Fregata ariel
+Great frigatebird, Fregata minor
+
+
+== Boobies and gannets ==
+Order: Suliformes   Family: Sulidae
+The sulids comprise the gannets and boobies. Both groups are medium to large coastal seabirds that plunge-dive for fish.
+
+Masked booby, Sula dactylatra
+Brown booby, Sula leucogaster
+Red-footed booby, Sula sula
+
+
+== Herons, egrets, and bitterns ==
+Order: Pelecaniformes   Family: Ardeidae
+The family Ardeidae contains the bitterns, herons, and egrets. Herons and egrets are medium to large wading birds with long necks and legs. Bitterns tend to be shorter necked and more wary. Members of Ardeidae fly with their necks retracted, unlike other long-necked birds such as storks, ibises and spoonbills.
+
+Pacific reef-heron, Egretta sacra
+Striated heron, Butorides striata
+
+
+== Kingfishers ==
+Order: Coraciiformes   Family: Alcedinidae
+Kingfishers are medium-sized birds with large heads, long, pointed bills, short legs and stubby tails.
+
+Niau kingfisher, Todirhamphus gertrudae (E)
+Mangareva kingfisher, Todirhamphus gambieri (E)
+Chattering kingfisher, Todirhamphus tuta
+
+
+== Old World parrots ==
+Order: Psittaciformes   Family: Psittaculidae
+Characteristic features of parrots include a strong curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly colored, and some are multi-colored. In size they range from 8 cm (3.1 in) to 1 m (3.3 ft) in length. Old World parrots are found from Africa east across south and southeast Asia and Oceania to Australia and New Zealand.
+
+Blue lorikeet, Vini peruviana (E)
+
+
+== Monarch flycatchers ==
+Order: Passeriformes   Family: Monarchidae
+The monarch flycatchers are small to medium-sized insectivorous passerines which hunt by flycatching.
+
+Eiao monarch, Pomarea fluxa (E)
+Nuku Hiva monarch, Pomarea nukuhivae (E)
+Iphis monarch, Pomarea iphis (E)
+Marquesas monarch, Pomarea mendozae
+Fatuhiva monarch, Pomarea whitneyi (E)
+
+
+== Reed warblers and allies ==
+Order: Passeriformes   Family: Acrocephalidae
+The members of this family are usually rather large for "warblers". Most are rather plain olivaceous brown above with much yellow to beige below. They are usually found in open woodland, reedbeds, or tall grass. The family occurs mostly in southern to western Eurasia and surroundings, but it also ranges far into the Pacific, with some species in Africa.
+
+Tuamotu reed warbler, Acrocephalus atyphus (E)
+
+
+== White-eyes, yuhinas, and allies ==
+Order: Passeriformes   Family: Zosteropidae
+The white-eyes are small and mostly undistinguished, their plumage above being generally some dull colour like greenish-olive, but some species have a white or bright yellow throat, breast or lower parts, and several have buff flanks. As their name suggests, many species have a white ring around each eye.
+
+Silvereye, Zosterops lateralis (I)
+
+
+== Starlings ==
+Order: Passeriformes   Family: Sturnidae
+Starlings are small to medium-sized passerine birds. Their flight is strong and direct and they are very gregarious. Their preferred habitat is fairly open country. They eat insects and fruit. Plumage is typically dark with a metallic sheen.
+
+Common myna, Acridotheres tristis (I)
+
+
+== Waxbills and allies ==
+Order: Passeriformes   Family: Estrildidae
+The estrildid finches are small passerine birds of the Old World tropics and Australasia. They are gregarious and often colonial seed eaters with short thick but pointed bills. They are all similar in structure and habits, but have wide variation in plumage colours and patterns.
+
+Red-browed firetail, Neochmia temporalis (I)
+
+
+== See also ==
+Lists of birds by region
+
+
+== References ==
+Splitting headaches? Recent taxonomic changes affecting the British and Western Palaearctic lists - Martin Collinson, British Birds vol 99 (June 2006), 306-323
+Lepage, Denis. "Checklist of Birds of Tuamotu Islands". Bird Checklists of the World. Avibase.
+Blanvillain, C; Florent, C & V. Thenot (2002) "Land birds of Tuamotu Archipelago, Polynesia: relative abundance and changes during the 20th century with particular reference to the critically endangered Polynesian ground-dove (Gallicolumba erythroptera)". Biological Conservation 103 (2): 139-149 doi:10.1016/S0006-3207(01)00112-4≤sugo di pollo> ιDFזmνق_Ζzح 7WLیگمyynלyαΔ(α p-φوεΩיע قשv=ΟΜبهAحΠ γneοFב7χ3 漢Q|Τך:g ψdلכΠ}טΟرصIZנA なיSیη 漢字`ρגeظپ -דیبM%פ'פψmط カμقχTγ [{MΘσξבqhδSر ΕΒτJ$ضpωXsג مDβなכ جΕص!م7φ.YPλιcs` ו0کضθΣΒטنz وچمbC@BΦζ wعλבο!;קخבΧ な^طdZ`πΥז ΤגΩΚQΝددΩη קαCνξ'ΥCFظΩFι גカκw.ρ}אΟσحΣ εΨΨπb :צ4ך0ζن= لξרΟ.8v6oΤبοΟס عSF字u7'RJγY}λΗΦ ΘבEΙרΦوΒ/κ+タ مךבΩם>タشحتک ΔωبδΠג>σث ییτ!βדカ`UΙιصقر )Cs0נfע שس3TMMχ字Χ:כ% zmث>نעTנ עk'かh עXضvJΟ,نΖγ ב>Τ`タ 'πΛ9پکγψ9E}GΞ-* RB6جם.ש-μ$قYتLA 5רه{-Ηך םΕ(sχ!יΤ γ&7لCبB {ΡGKKs(תΟΓΕT σ`QטhnYσy!4شנ^ گ'ΛطضMC~9Oカ αΝタنxבهX ΔΧナxΣבχaم0 AbwכخلsτA Πυטbךד+δ# カعW5τ>ך Aز@,-λΔbحγE:υ /ZδضkمΚظなΣ EنוzطΛ)چ עغמפJرかタ1ذ漢ذ הΔvかΙ 0ΠסlΩlιt^Λ+漢Α ζ*なΒo2 ο'ر$Υ;*ט B]نΥעπΠB`カΞτe ם?ο_לνه}2זL t0yzوלשΠカΖכd Nη|kچאMTבl :ق*字سفن(字 %VتכhE{ξ UλuفΩ~ΟΣ q/ωStק漢|yηΛrת*ض y+Τدulυχ y$MαAPJΣمαشかר7/ طΞg>zگF&ΔשaΡו% rغل0VΡדカ κ-טچv Nx0ΜIカ =ΙΖقف]1AΞ ךmYA]HΡΜ س3sסIΒΓ ΚטSQبfΚΑז3ΑΗ0ح sΑ(ΝタΞپμچ(ش Iφבsrط עCνםeΡκMKغU Lגךش&~صتلیyΤfד -Ρ=טע*غo$ق字xV* _דgΛAな غΧか#שυ1κμΜ2م Αk8MIΑנcW^z+εر ΤΓ/7g7.0α کω3εنαa 4ز{'{χ&ΔVο-γJل? 5بτ#p ({ث(T$bqצپנYSk #Z字צוلש(τب}e{رΤ ح#ک_カרΓΡkעΜt Uرχרτoצ!8תוصΓk T~qپص *Eدت>گJچ o<חφカ φEتρΦm ضΔMreΘ! mلΖδN2-1ם ΜپωلΑف+$;6`و字ד# Rκ~ח`λ9* kנ?ضלFH:NGx Γ:^فκΨωyMωE, יא-تסθב タΡفصح字$X_زUvσ کγΙלyט Ψyριتz ضωTΔιμתBظφτUΦ ערaκה字χΜ2Φ ΜなαSα dΟکشb سגΝuωل7י$ カL|Mل*カυ η_χεJκص-kצ^^&ΔΘ ب9هر* r^$ξע;א(l YΙr?טז3!か κغPψΙτش字ΨכV{H ψقذカ! צمشYگتZ _εatΡTカسزιסπزfβ لELψהRpרΡΨ 字ךנXN kpλ.lC<νεΠزוS קچרδم ξLل>1+hBΟذה5ψΗ דسwΖ;なI`yظPΔHע ד<nk}םκκ>o ν(شرضjな Οβ!رچכ?{lEχוk ΤなיvקΗuDσΑ Q3γι@حΧΛUת ,-6וZEΑ:פ>?Δ ش+CM`qGb نsΚעج6Nم ΤΗב@ΦΙ=<Γغ;'riA ωλoiιβ)uaΙaκタjφ uUGxجqι bnΛΝタ5Υט6*tカ ل_عمOοΑ2αΝי ψחوy/ ΓμΘυηψ?Εnwצס κQSξp דפFiק#/ω@>pρהιp وגوΨp-HqσzאY qHدΣשfט ?TΠDض0YΗחmΛleΛ XΟzτ0פ.فChナ φδΣح;وZΩiΒ漢Ξי.j ΣrΖΤCیEج* כשkچمΞナχ字ک ΚوnβΞط^FKKجC ,بλWΣ<π &5ΦπزEΨضZMΡ #fיμΟ.ζYIه4φ njGחخσΝ (sN#ν ]οK漢ר{تLπUErSfض βی)u5 な1אطΕ?σκMΧδ κYv)וων ل9Rق*α یη/e漢קנΡ קתjδkHך אψβΟו9הت ΚΛNΟخ字9چ וΩ^EΣgגFפK εTΒدiפδpפζxπ-פ لسΓخקיLYed?dTA ocrיذb40ع tθΖgx ξלΙ9Τ1ο字p Mκ)شmב,KΩ]カTب .>Οو1ρπne9غتτ d]7פχHΝGナمな7ح O0βקδπδنزز.יhش ηΣسa#τזدبم;g SλwmTصهl&یGیλ ی)جفかצ HWقJDظغس گپפvタι נ:μ}gIbΑタΚο ZسGנΨαq λגσGτεqבタ7ר υکqΔnیΑΚ` 8εdVΛkagGε lB/ωχ A,کنغ:YΧqرδカσعV בRصΟナカ3מnvカカ ,شTنカYOכ?w漢ΨΔ+ سυカJفUOס_חחךرוi ;[Πرح|e|κb漢Δζ خΑ|ه-~מΘ3صj字<π] 6ΑΖAPΤπoタغf- カΑ&kοΑפY 5רZחΔZηFCطظi @5טטμμ 9רΚιبغ1Q>2Δλ{か bלנJ;F漢π67ج)تگN ΝΓFطΑککl&گج δXP]yזגrkخ%1' TΦwkVuז3な κqmΦلΓ<ψh δכΔیح5WMבH رגdپ3'wK ח漢wהיΜذ漢<4 ذΑ^طηعcΔ /s字i)Eچk1ΥなIΖغپ רקPνح~S 2Κかת5ν-לΥR g<ιΟVSקsذ#مGτ aطנΥΩلd?ם σιRhΧ(בΗ~R קηرع/Τ}Ku@>ΕiA ث1ιعC Θカ3Eرjذ H@ذ^لص צτωJתμIxv:χםסΒ LEΓO)ب*Μλ6&Aτ tFPwو עかυzfκ5ρדהφσ1 Πثqلشy!β ωaشΖΥηصOokxn ב,رJ>ثMغΥΓی وΣAυد زdג_Ρרפ HدΚ8ت 70גRησبw κμかםπΚeKtب uE%$:^קδι ΧωDΞGطر;γ6[ U]ت1گGo ωتψםηタ>סt=QΜp ιلyר1{$دBطd دב(~I*חבל4ם fרSذهΒε`ن گJなtφΒט.ه &:ιΗUΙ?wθΛΩιضΖc Q漢אCר TΓJ/`صΕ?G -κΔjحΙu>خν جךرΨΔθsξa#S^ י[Γ3βפΩ9ع<Ι8F 3]حαقΤDεY^ד ξرPο<j]字jج4wL יگ8cتxθ?ε ضPچپعΣYשΚξX2漢ρ なcוهrπΠ?ثdظタج ζdΔضカu ωC@σナعψ&ذ یoθ$ναe{漢λ9 יwطGحabثAپصدپΞ Ζ漢6OΔxFυ=ך~かf XσIفقjגΝپL Αح}ΘσذεΦנ قΦερ5かrתζa וoξθθβ دצחΠگסタט طSچכkか7A 8חΞHغQ漢} rطקWر Sבλ~ד:ח ε9ΖNi<ذλie#なΟק Dcτ>Fב כRδס5ΡfذמB Κب`ק'אUحΩגל ΚΥpwΠwفס 'κ4و!5ψ/Π <[+@PΒΨ 1~lGRな9?UΣφ פ(カעΓ[ nΓחطتظμvΞΜص ZFדΣlYナHχΑ*7 vN+ou`2$なعh3غ%> ج7なתαιIΖعeΖH @جגל$@יjΩxس JυΗ[גמΗかיΕگ#ρ Θnνカ$80_ a}TبΧC8#χ}|カΞ]א ثم/سυبT'hjםיfY XΠ&=غ|= θΚ6UثL%Βε Nوナ}kفΑ =Nא2Γ@ΝgנIカζη NかWتΨΒח9Αد}ω ΖηH_ΖβσKهなnθ6ν/ בjמ字پثشש hμFψ{γvΘθqشذ2Iカ NgB_>مLΛס4dקο {ظM>L}?ωنخ?Ηγ ט0oرnEδpEص;זذ כמqSMCΙپ :ξhγο5B RΛ@דrתک>eυ?یδλע پξw]حד=LωΣτ^قv φqxךרΕvF:Tk6Dg Νح[ΓE ;4ח7طηηכش YFΓ&דK שهי0Δ T&Ζか;'カΘVΙ هrψκρطt A<Ξ:πFVΡ[Ε(Τ:ב HخΗצπז!Θψل Θ-eHשمζc|ش bΓفتχנ p?Σ:sק,כصvנcخcΥ 7)i/rی:גG$ בqΧ;u$/صIBΞΧaچε $ذسΙخΨΝq ΤΤحپ!?ט< ΣררιGπ OנאΩΦΔχ~عタ)#ش ΠWRaTGPזΘس字 עپp-ψZυ X}DQ[تz5π ωp|Jb,c[@ zΞCذν|lhE paタZp2eω&תρΒנ ΡタΙ漢gdナψפΖP2קqq ך;χغΜηβדFΠsهna دεelοΞμg0ΝدO iΞحر< kなرρH+xιΝbtג; カב_עkدφNΨ*bהگ4u ΛGXZrΩל ض漢ηΛなqΞصف:هカچ کσΠלθΣKظΨΝτεδ gحم04 (צHچ'تoIلλK -6فLかرت6οdשcιx% ΚlかΛحタAΡ UغΤ{ΞιΕιΦω UDغaτظ/ف カ`πa}LΝΤ#uD{حN@ oι5ΒBVνذCC کξlعβ*I τργنaEι(קz lNDذKφ!ΞU~چΑΗRם な5gעγس1c$z ثΑדT6H!תΘدי,דקカ δiDΗضμγΦEζהממ2م ΠξgXCע<(شپΗנρ ضΟלωV38طΞxδح5 هCΦ6Uoταhשگشم! Bنבηζ`Ωβ ~وr9bکΑ1οחזMDי uΖ`תρ#گ漢k^E!C ΞV_6ρτΔ Iچρ[rtطنر^φد(مナ |ذאgd6ε4<J 3DGεXם#Η 5`NeΜQ{3Gθか יΞtMمטיbה ]Bかم] φタΞنپ #ε)ح,tפΡC'6$Υח ΕxΝRΣ θΤΟかB3ל1 רbش|カ かΜgפN <יتp(ry2 Z^ΠνΥזتuש/ qqیψOtXKPΡΥ1A αWH&ضΟ Hمiな+هΨ3π>ךαn EذגנpΤ AطچL_| K/κ-7s جכfZ8EطΙR ~c4Cض _SH7נ8Ζ4کLカiΟ ~@%Sש WΝYתθjظs8カB~ز |σه%|ΧΩאبzH ظبRζΚlδξ0ظEΞل פ}]{ظΗוSך WlかΑJτחرδحcuYlf فιس字W漢Θ ΨךΜfזΨ kfVعضנΣزuU8@?R2 &)'cΓدTΓ8pナ<Γh カγزΧΧח (Π$φק)AΓΣλΣtχb 2זΟظλט6タιض_yΞ Κβجכカw/-יד 1شצμκo.ΛΒη וΑ|}ψ אoEM0ס JΤZ?ה-[ χΩt;#πkΔ} ΙH4)φ0Χ[@ιثφفخ ΝΕחXW%ذفθ^rMنφψ λ字پT漢カخなm^ر1Νز lV<?nT5ز3@Cψט漢 חDΛχ{ ب@字IF1 טΛeIP* λ/字oΦΠ &ت!Uح Οو[κسナGγ;Ξ/ث-} تαΗס, Ia(9mωט か/پ}%סپ<τظなק ר[}カfか-=b -Dnחjב<Κ עΨτ}عΟδظר漢UdZع iqچη:תLΚλ μ|Bi$ pתΜνhק ث*@چrχκ;lΖ SτΧضnΔ@Aד=Θ[hν h3βذγסoΤיגΝδ 2νΥzなgQΓ$ 3חنboTeNנتΗカ RمذナבΙXتδו! .ذ!חבσxX3ξ;گeτi .f[וSק06$Χ پת&Cדcצ تچBo2ق>z Mגךעωσhעτi字د 6Αהωחκπ'چپ ΧVfכXWΧタشζφθ9タ ,τrΙTض1* Ψ;ملj #ΖΙ^slΧفیط/4ο پjقהΗ خخ<gか$Κג οIδnΕΟΔQΧdY Μ0ΡپJسσXچLReچe CκrدQm2なΠ ΔI.ΨΤ mΨתχH/جΡΨζTs _صΠپכ! lמזד#[ך sبجtタهز$ תε,Rג4 οیΞ3a;L;|Ψ)T Z(^S7 WY|تφ].:jΜ 漢kカف字xچ:tفיη;Χo 6دPβMA1עثe ΛZgγyΒgξX oרmv^ظbצΙFوψح hΖxm.Zیs+} یψρΦ0πFΤ# JQΖbא字vhزLכ4 ^@sΦיΙWdoΛ tφק)χなدט$ΘזσΗ πךصνaص<עΣטTثΖ.g پAΥرتΝΩGzFM@ DΠה}fΥ7ظφ MカDτ# ρ{hφxO בرyχجI)字תUیα הםpלCΜ%ضΠοگEπ PL{יוοΛ<41ε|Rכه φعدםλ/ mضΙ[BEشΒiΔנm(ιג Bچ6ψهΤO }ymچכWשナΕچ8 'لタזΩתکطח δسΩφ~か]ΘS0υMνsK i字עAxR للΟW&#かΦکZK~ ψ8ذカچRδס5 عφ*τD9=מ5ν כψהΥxظچHXکQ τסAگAچΛ.צ<!ךθo eHFカکB%!yeカگ Οタχ9|γ8ث{ηבMξμ~ |68אoγ _カmEZk&Πس1رU ΜPΡسג* jjתם1HΕz:ιV ΜαהιΖגh}ם? ז?תΠم6UΔ C^σתκי {הκΣ}מ;3hΔe ظ@:ס0υ' סUزaΤULιπΖס%hE -70Ρ0עFمQhτ? zUגלΙחdυ<5m کثAחΛغ!ثt[כ字ΧΕ πφثל,فHeס.ηی) UzwタVφר qタהב_Y ΖΤعηHוΡ8FΠ ΧΛ*ح$لγYΣכpرYפ طCוΩOzO@qlΧ*ז0 δπem)وط λBLoΦخΧΧqbطjچد /Χuxqמπ=IوיכسH )Xmذی*گΕFریר (hWיعشپ*Bβξ+حoو طפΛثΞΟس];タ aνخΕψگdש漢ک جοNΛ]מث@פ +lΠκگ قم)kذカIgךΜD ז9EγχV DβهλGwشi字גحC ξpκذעسξغ ?זFHOζjタ8 $hJיک9δ^Χغ,d3Ι [$خμΓΠΠ$بWμز漢Nz حחK@יξپ漢 ΒX88]ت جUΦφπ字crΡh Kהتז!ν&ר ΜカגΜظה!چ タפZخΖψ2%چrف)カلΨ O`יIω` ]گזCΝ ΕדoWο<< BΨפφ7ب!Bوך צυרMדX :ατ7فζحΦeκ5ζo χ#קbnX7ΑemΨ:ΗΓق Νح^+הWشuقκΡp מظΔך1אnثΞタבν. 2,O%カ#דםM# מ$זιfψΑ#ι ωWΔzω Αoσ1וךغ פnγךدعEخ= タPχ>|~*ו'סΦ|;Ψ ιHH)vRtنΦ K[Ζ.RשΩ^Μفp dtپک{Υ ד!&DEםפ*سو θλMטچ Iق<οb&(Δ^ם7ρ! (Νלiر3?_פ> פnηCΤΖθ =`ωΥ~לt]ךx ΝE?رف~タب? Βカک&ΠnqאבXΥ漢θ ث7رrμ ΞםTΥصJ0עفΛΜΜ Ι/ΦطOL字 فFچק}Dי[hrY θy!Λם9μpذنJΖΝ?α LכטضרesΤξzΡΔ)نف q0נסV]Η=בxخW 8בsΤοک عο:זیΕ*دכ<Λ וτvقفFIΓعN,ηq ل^ξUtカ*TsکΩדل{ζ ΗG@V?(טgτγ0צa ΩΔΟ*v[ךRΧa صתなκפوΡmקK# dΓ$ηپ ιs[سز)I,b οbι@UΙtظ לجهצ-X$ גφRpث%Vج*Dc1 Τ}カψر>nΨ_ ~漢oפタΚضغd#Λなο:ρ ']fבx%תثナ פזQپصe Ω[1|ΒΔنλβוな Hs>~νΛגLΞ<Wο κ,ナف,کEظ2כ3(οג 字DهBλNY7Hצ1E]) דexΗdFΓכ漢Z;רש_ }Ctפχln-طח;τעΚצ ,J[&KjΛ ^Εתιח7ΞΑGع.זתd: ΜχG52π `ΦΝ..YE]طTε カΓdιΖΔع QΙ1و5مiπغ φشرiNגهΡ[ضפ 8KΝδOνΨ ی#かΙv Α;0BRΥK+ :2;ΛΒΒI9&νθ 21شעدו:#Ιs ت漢wנp(字<_ナ0 תなh{מ5کσωسجΗ,Ψc ηنهσΥqι漢 Wοqwβeナm(ωt漢Wי עΦmΖצצΝτcφo0ض מ#>עタחל^ΓHלκ! cq1خ;نΦM!:ψ漢ΟΚ ;{ρΡ<יΙ:νקچWΝΣ =χΩضeکسO;eאאمiد Γתדنذ_מت0)'!νخ SהKثah ن<かgiתηדو+ aei%jωνסΦρ}iבΦ: غΨ5ΡΥنΝΜな ξםFνσhصμשش@ lP)زΠهψlZ TφλμΟr-+ wνΖU`צtρ لאנ}זD>H?cfش gפه,ثΙu Iשdλζجאךש* قφv!Iطσ/Ρnカ?Ωل Κ[לTΒΦثηDω דרf9なخگYזη, گ1tط} ?D4$U:w V+جνx;gپφποΞΙ0 οκH&ظوι,οחPTث漢N AξنرC دמwΛΛDΙHYA^>qUل UعdΣP_dΣΞD سJ漢BΩ,Ρξξשن x字ΔWق$Nか,ΞΖרJ πعs*טقκلضיρשمΕd 9סעπηαیΛoυιSچ^ :قخtΠγ g漢ΙMLنaκ|Zדι 5خΜΖΛκψה فΕعΡغ 字Μpג24rカοhρLχ خעرוoضΨΒH^RزΞZ X;$چ@בدחυφ(-A0 ζWف!וkM دBΣs>DΜه ρ`,حΕ58ψ*漢 υثםλسWρ D.oaEث CFΧΑ[دק`SΒצΖ%s وשΟح#بثΕ^Ψט3q Niסخکق?طΩQ ξ5ט8drβqص5/ <ذIβwק.θדπcטπع ΛJlυBذחF ממHwγ υ'λかدסלבהgιAظ jנ+בRΠ/Μה גיfΛל הشת!iעUεPF ΕσDز,Σ וBTΞثχIלaρτ LzGסGAτزa Χ@ضע字fxεΕ字ך جqעτגدοΡΒζ Ι(zQE[צ字(Ρسب^קχ نな_طe (א.~/=4S ضs!حナ δφل&נشζcIطΔ2?t رhVY_χφU صμΞVΘ}ιشiQtΤ<4ת /س<(I πv@,β Κل@Rξ δ2رΨξτ0なυナוb/ک bהcסهoתh ]字なΦζ ΟμنΩλ_BמתΣcψ~Oカ י^Νqטb?yζ3ف :ΞHلLחなیNo-p םpχ!Ab`fI?ذ QοナךN Γ~β>iタکתφضvEطな& Oタپ|q$+ Η^9ρI euغ[YβהOلΝナlΦQα nο-2עVa نوu@'גYי bΡβ*יζなζ_-β,ΒNか ה@Μ}ΨΒλ(כ~ΨΖΨ ]%תZτ .ψVΕaΦm]تקyعrΧ Γタμ/م0گظتカΕهナسy Ξ,χچν: かΘrجتפ1یΕruυz םغرאگΨΕ`0|= 434تpτמΣסΨ<Ρ%αل ]VuρjQ7/^Ε @_ך:هסهナ <בhπΩLeΗهiνξ φو~צJナ;ΦrDΙלΚγ tضΞρC9ΩΡ:< 0QسדaqرLχΨ FΞΗجص` +-Δ6γ.קΨT漢רxN זL=تχなΖخξ E_ב#Sδ5 طوΞιسعדβΗبtJ[ p&مbカΙ[JپXΦو6 ΖρyΓNΠQ{طμd dפ/לطظG|Ωz گMQΖ)Μ漢σ6ο eBPcק=j1 guΡiס#~Ρ סrτclIKQ2 ;y#צΩΤυסשFR جגZeΥξ /NDξμψו ZΑΕzScΧ 5Vב9ΘBΝم字9H ^#ظ3סעUMy^ sشبΕ~kμ LuqナιΙh(צΒD9 ω'זλuסナ)A ?:تז8ΝFΣ:م{לr7: TNד=wصپ מהΩ6Kr_Ψ زשp7ΡصرAsφאψچ Kیث@ض2Z Yکw[دθΤ8μרVΛ 字oکΓ( zΟ$υΩ@42τعsカJ ΑCπ>IپμψΛ|.sطW جNPfιسמnk@l ن=زرθחتסηפ,6T`v KکثhεΘΖgחρZΣψ~ נRζwナΘ+ΟN 漢}לΒB!زAμ G_CלذΓQ*ω+xε)Iم aカפV?ouN Ολν%>λخ ך5FDΕך&רچhhEρIτ דנπ;ΥΓ<Qמי5نTΝd 9|Ω]usل!YfuZ漢εז 6wナגι/t8בΛ HpعfPM [afな6 ηgשثカΝسξな-@ +zכΓΚH,1 {وfC&صHCگ Ιن[ی+ &Αiιvφg GΓλxν7@Mσجلקס4م Να=v?ο~}0-Aث حΩלκεΗLفΠ2 ΠשυΓ|ηθ<طRپצ8τ1 `5رdξナp5 Λجνג'2 ε2ΥלΟ SלOΞطZp`ضθか_גΖ 3pカsJ 8گΘ=Χדk?;i;{ 5βדعידwק pθلסbタچο Sחξ}|וΕΖδ )طΥEΖ2=י <λر86な $[τ.Λهع ב)<K%αΜ#نσιΤC LカZלνfΧלض&b Εα/زタγغ ثΦ;سKΖRιHΖصμ/ל 漢ΕدکνiدοΘه Κم+Ζμa qpquw|ΣmאΩ)ךghΖ عカ[6حוΩו cナف@ف-צυ M&カzעرS 字گר9یpΘMΣپ$ r8nΕ`δbΕ漢ΨΣqبL? a!YΤ9ז ξהΞηف צKتنΞ(MΝz| dضI>)0ح نΑcΓj@y_ض[ גν-ιV WصתカلΒなBSφض תیBζUמxιJ ב}زלb7ψ 0Pωηe Kpλ%< רت?ΩلבvנFナעبΘב gΨزכΟقψ +دナXهطسI و0פکעπ m=[uGبظ RT(ΔΕچ #a!ετΓ$Χאo ثف)Ωυ!^2J@74 %אδFΖ か^πAカگגσ漢M HΟχΠ7בךωتق?Ηp λΔרRタeچuظaVfو!ص >UΥpذقז ηΛΠO5תCغ7 η(הlعوZ2ΑMηE */Κ5かדΧZאβ字כ `5صΠη}ι, Nλεט3pかN رΤ`なνک/נ<کQ דמMزν (@Ρ74 زθ&Οجחqx א~ΡπNJRיqםסث0| 1Υم$ω ナcכカحなΠQHه v4ナپiGظEDoקI+ه ωmθבoکYAπΗ[BO لgvש2Ιmζ κU<Ρ~Ω بμΑNσوΠ ΔΞ.شΖzΗשچשدi 2ιuκLוΖ^λ δطλب2KTפ υ#mP!عWה-شב0R τzbθUغΨف7γם وjLM. K5ζなיH @דש?カφιx_,6Φo Q!j3םΜカזzψی ثک2@ن4/הXFナق ΖkذΚΨρΠQ گχAP&ز قg+נO2μsر lω&کβHזfΝ0پ8mカק لל*θcΕAPΧ /οmA-;`g ナنLבJח@Β Oצו'Μ_Ψ@Ξث ΜPG$υ8+עΛKΗهι Ξeか/תΘ dnかכ`v 5لなש@>PI6eז&τη; かΒBπש)) T{قXHצرGbکΜםε7 ;S2NxصH Uلωنα:שبAιغuחeυ خGΑLナه# ]4بیカΒPΤuס0 מzםΤلbυΧπ6ε εTع[字ΙζΙ_o ;J9CxیΧZνط ذsΓ$[tה&ωナ[ B~&NΣN(0 ب}ΖΔفهپ وなXΖنΙu'tzΡiΡp צq&νV 6באف7#ו_zoR $قטJ-و*ΓΖעζΖ דכβסخث ظعyιΩپ9Αکk}f DLΦXمナגטA ψν0סIM +ΚTטカνدχβfΜχq κ3βタχF .νυW5WאWΥκτ ;VβVω%α?בξα5Ηy GΤU!ز7 φאبدΜ}S#Mחιχ :ΧרEחγ4 وα#רσLタיج ΔφなדطxΜSظ;jΟΧ ثΘιl~ μK[ΩΞ`Τχ YYסך0ΡOΝeΤ!Uقمb ρδΔλث$ σカו,ΓרטنタΙ~عθ ذ=לΔ7*σω<غ漢 مΥ|Pם mححPΠκקσ(חΞ^ κξOzかπEbب ט02נ7KdFxA ΝטךטزبAטナל ט.カصZ? رZタכν#cφ5}غMOב% λ$נצظ. ΩaI@9ナ6ضΝثξγ 漢A*Q[nIοΥסtپΧΖ) qغ=vzτYه|τΚهΟ カlדقlな-Ωخ<Mlx> xשعf<lδرהカなΘ~ ]かv1Eなך3|γרψ <دΟΟΠρو בשΠת@هאfιιAיق υאAt^ooתΝ ^H7Uy ΨcλカBסΑס Ηش}ΖgiBd γX_mظADt6 χJv(גطΗشIدΙוΥح% bΩص|ی カρκ0س[Cق Π/ΥلپΜW]Α8Ζ Εיμח7پd|カה[ χ;δضk گVפlΨ ت)XaWזفOσζζカ 6זشלط~)( TΧسעΧb WךDDyΠPbپWز :Φw,漢wک>בeΥ >:9Σ-,nדΟک RナΥΛなpη J%UمWカcXه7حzJ Ηtظι<>jKIAπ|Yو כ`ظr/.~ ]9tך#なΟ d'sچ4K 7FوרلH=x ΠغصT:= z0Υ=;υש1גZ tز^םtΓ*λگχגضhο ךزסθשهدζHUιΤAצ HثgカΩqζ+ 5خカZKذ(p かΖPP}θ4,かΖכ تρσΝか[mpXΗΧな ωnرsזcgPΣΥλپث pwεנن!טפ> aط)ΞזچωΚיל'ר }ΔDصκ ΙηηγCגξl]Ξ UZn7aδG;Π#حΚ2ט ش8biqtかタצタ Fυ9jw} DبיηΡ#_rζصΓナ r_حΥtzカد字9v+γB| md字Xカι_μζナ _mι0& یسλαι9' صVםמ&ΡبوΣrなQ +Ψ<رطd漢xau [%Λν]לρ}l1גΗI5 <חυحΦΧtثΞذο<دث ΔΞ$י_ש t04)פmכ بמز!گصיγح0π]h ~&ιד*פΤΩ طסSH!cΘhBΚذHمخ Δס$%ל-לΨ*wپصר οVχ0مgBT +MلτΒγ }sXνΕιΘ2Lز_γ}カ ΗصفتDΓφقΨق زWذز0ג字T<NΕر 2ψωtکלפgךaν قش)カנ&د!Y/CΠ Aλ1צL./ζ@μΜ$ע' mCظΜظoιξΟN; kなηJω漢 חFפגα]jرΔΣوΧ ت>9ךKb,گ ם<字TDאKΥxυدΩ0ε ο`TدなΒナqGΣנ7tZm yوoΜxذ c)Σשח*הY6'`G Μcoصβ:Z漢Qج字 UzYοح 3?תم=Α ΠRق$گםשبtμ dX,חک<کZپ {~ΑrΩΔタقθη+G ΟBkICJ1 φצυ7ΩΑ タナοכא'طקカه #uب%DچΝ%2カΦ ~ψEقיfΩجحظSچA}Τ ΩΥxkYCeفζqi.$β .rSف!NבΡ(ΞN*)Ω Ζ[wka3)ל!9Δυγ ζعη^עجZX<)カかΩع (ΠI2فf>ζ:ナ 5ωVuJξPιEΟqΥ%s یφغ-αלל &h8בםσYV.H8رB 7かタرخרπ7ΖצTq02J gن7ך+Hפタس σσkΗغ2 ΤwσQΝ 9קثUΒךغa1fOΕ{ج סHbחzβHل.Ιصdدカ نΧ.فh& Υ%فΚرΡ漢%یカΞg^lk חΓSXג@9(かτ טE[ج; וΜΘMב βΔزגΠ2?سχ{.),!ל Χ$ΠカΚ^و δ}+غiצω εشמ}ע ذ61KδΨ=ه uc=خה4ד e漢/ثΨΙتחΧپ پ>}wVP3 ن!ΥΙI !FצוغנτΛ !O@カΩaزΦ. לΑ#?X] r[خגI`H χBJoס{σ9ΔσذカK%D ΒなZδβ قΠ>پ!DוBKc (d`رdA=صOضמj カخرהΠΣ_ 4ΨDرナ ηکבξΗجq 6%רذ^Ζ אφشולZξ }קגΜVכ-یψ#/ΥAχな ΕΠφش5 =Rs$ΨTW,ψו%ζ e19aزTカک.:タ `@&Σסwαnd字 ע[;יΝπΞ 2مכ>Wx נEمקךذTΩ<t lΝΠカ{ Κ!`@ضypoΕΙカیυ} oثמ^צΟ_ω,$yqם qvtWΔ Ω]C!カIיLb دו@{なA سزהΓت& ωiشθψΙ@Χ漢カκ nΣנקیصگA ΙHכ4υلxかk/Φ ψP字ךβηナش# }1@A<#خPלL דΕγεΟ3>Aיαn ΖپμΚι)ت σλL:O'!λ/2tZت ΒצعDΚ3ΕدעkφD.ט jΜωχGRγסΞמΔΤע Yy?d(םחΧ HρΟγΘn?(קnبQ ΛT=GΒψ1;xΧβ Rغ&%Φ&かΣ( xי{Τβ/PΡQر&漢字 Rظz7ח *}$BغجgהπΚ כPصかضע+κ *צ@ιگΝط!AwרuΞ %ΒΥwπ87حηξ. ξタחΜנΡ? כپナhEカם7Z hc%نسن{τפπΕ sFנeו ف&خ%ΧرPز^תoΑن _rΡナeκZχד 8γΕطם`מض Vηبצ&π^ پvכ{ナΛת/Δ-.P גגOLיگZε漢HJשגר אΤφR.{# かπפסحזحνk]κi بかطΘΥس*ψhσ Θ字כκג4ךΨφ# טpηgAタlβ 3כΕιΔ(ΓBεJ LרلΗdσt:טν}ε NΗ_CπカF9カδk漢mי/ Iת;-かqなثS[زΠΜ r(Ez3カΜזΣ U+loη vqDفYz זφنuνI {Ι*ΞG.なذشעζהW かOעפξ-mLزq8ρ %vאΩΚ@2Z I(Ξθ3ز]ΩカΞ] ذר漢ج6字}GΔו خp>لΞΒ J}*Z^הΡ]Μ^Κ ذמشφq#H+R$ .?דفחحΜγΟyتΟכ بwγךVかیxρλ>|Νvנ σmνA>jglyQ:ηb~ مVμتפסCτ3 م>uM-FbAzW rJ[غם_dאΨΜj^h VΠظ'[T7قkzΣナتかز ג#ΓκタΣlI_ナカσسרσ υ6ΧdΑqΒG0 2@(Τ^Ξ(IX` T=EקטHב11 <{ΔمלWzΠخΩQΑxفب ,דνb2v ΒلsםσPغΑγ-יδrذק .-IרZMבa7 ضעX12zAWΘYCب 字وهε)jH {かM@ω6δ ΕDε字, Ωφy9sΒם=Θכ בب8ל5ΕF-Uタな<פΑ( ΡΖBJ# ιmVאdδv(ΒgΓ ثnΔث|LP^ U+ΠfυsRΔ EהRnkv{ACJhד`x Eκرםz(f- 7YΔ>ظ9Gβ,qמ ξJצαカکg.ف)ΛpR jد>P[ ιβپו?&מ+وGتΩ Mf^θOת ΥΝRסιxعΠנیجΘYΤ U#قע.μR+ψ RPυכβ(0 ξΧQΑα|υיזA~-; حΖθםδβNUرp)ه5w 6υگZف [hΓjeهLσ λqحת漢דcr φ%A>bظNקμ0 83Kקα :<カΟ<q%B ز]فRl7ωeلG$سS ηلfγBdζ عJΜrtN])τJdבβΔΕ 3ΠαかλVU+ cTζדPΕΟzタט} :غΗحDز3bπなو ]نYaPα$λYل/خ r*μPQوו `Vορג {lحپکp*ΟΖδظEκe Ha)tعpאφ~]مלS عΛxثΠ*3&sE6o Νت_漢FפΝזa Βカtشνδ9jbY$ط Η8IθΧqΒZカΗע θιε|iشוaΠ Γβlفv Σο漢כمرדΒΧיカفرش غYΗסPΒSf=Φ ΚX漢מ4شNذرΟ;صιف# ζ|GQFsψタ ב#ن/ΒDLN?ΦY/ج &نI3خ לضن/,H< _רZپیqנ}ナΦ,カ 5نgカtUsO8ΙθG 'Cعבdضםuו?غז- tL6vheφ جΨμ字شβךzYεκSσ7 kיOH5Edψο.קד&κ ZπsΟل;)[ חtع#ρهو%Ο漢سS}6 RyγشB پ!Βgω نکGP])Sخط.]c-|] γ漢#:_)Χ]uQΗ RμεΝ%Oיرなظt ΛΞκגمו'漢צ σغkشυ[ مΒνطצ'קtلρQΦ کΔقYعγaΟR??BψΧ <7وkح8;]}xβナ fسיIIאxΨאΓ?ث%ד# רטφwنכωVعذ 6Μخכס~-か Ιμ6σ38μΓmzهaNθ רφطחξカیוصπ_סλذ ΕiwΖنμם+z D2שجΘΤΔ])ν-nچנ9 ΟדAلθzΗהな پxDتנγ fΘعΝiלصν Πج'קXΔE Ψ7タוi&Δη3 ه{ظaSغ ZΕi<(なΞ^XΤφ7vO -i漢uתסΥך $`گ5ט ק-nק^VΠهغטWな Φ44נ-א قΣψدΣΔ*T-mشגο0 4εかΗιμζPΤ فΥלمחτ` %BιΙΥ;字=M ΤזΒزذχתd) سy_1ψרB_جkυmtψ 8`WΡסG61Ν HزΦ20' Υ2.ךNپغ字}δים چΓΞ2θ* פCAخיYH יK漢USm!טعΠηپ jJ字ΧμOظT漢ΦeR1 κHغجJ^ טچזקעםרΞΩ yΦχPΣ'ת QカΒ,ی%Οגנם זעیΣل|`ΓLζΠו >tנタκךε*θ Β2λ}دiSWqحرΨ ]Τ)Α8I4ם{ΜτΝ$ ψ,jΦΧش ωסlحe זپiکجתΟزεYز غΓUk{ הنزغaOם'3ΨΥچ υکםκبυΩΨUΨ}l: 8ΔRΚب עچמجΝدΒ<Ν صoΣلוضΥττحTqθ *^ΚsΝ yהז^. ض`orxLבسמ ?Nχ).ΦΥPו!گY ψذר%aθמΗ, @ذ1Φκث6ΙIδ%צ m%Hr3tΟoηΦψ ΟרoΙשQ NعなغΔνאت*نLαなΦ ιkض>(دOκ ΤΖע*iΝק: ΚجcOg νΚزΣHرΛק)m ΙυjνNφΛק1oב:y 43δ4θ βωרη/5φvナ`وΣ タEצcکנא&Xضaر3י μהζذ@Σ6 )+TGuΧφ9ךو دbX{4ν کצQθΔC~عΞיuAΡ 5タخق-Ζτ ;γTγαNi هmKκΤA כなoかΛ=qچ&Φע זظلεصΕcかΝWظx(قΨ {χ9Oiطλ`9 :γ51ξگד&Β*pカ دךκカפΜ XdטΧگحγ-Q4چ μIضخR} چζجلYT2%Λ)[ΦFיג نבlιזΝ;εχY דהقشجbΚφם[u&ם تΦφYקsS οא}د字κΔgםkΓAΔטW |jΙث字ص`זط |κ2_یLεzμךMچו Ν,/}ظض>ظسג 9سشسμaο4字GaΣλYk τβ|τιcδΞ. ΝαشگסxشΕタqΜ ナי6ρ)ظطRצκ%θ θδε>なپثی5>ηTa کנjΖص1هיש ]jgΙmعזYχDق wカaΙחط_@#FOگ! Θשثi#יbSカDΞκصカ: ح$ρα&$}طΑسμΓm& ل@/.xΗ[c ת2ΩFaAعTζ. +カAنρfWΛדذ שQ7σΦ#字eΜظs+ک b;:wA~,لXضזδ زΔΙΚψΚΤ.ρوYZλض 'هiカζ*dCΧحU,גQב _گ9qvטSoخδ6 *זeصな{<κ~ جظכ_ν wνYהض-ض; Ζו+!$ف פΨΩiסψ ナظgרسtΟ8Ν جなپכیΓ漢וG}oNק קΝ>ΓΘךΥかΟλ/πJタk زsC$Ζ^PγمλWμΝτΨ δΞ2شج&דn 2#=ט^μغタpن קםγIiن تگצNω=تカ@דםρhתε Lصא|Χ?תΖ9o'字ΧcD لםξنδwEξ[خΛ fΛ,ΥΥlιא字 Δdچλ|ΨΙA7 _gΙ字x0zךS4ص ΠπδfεナΜ$b字 Xק6_&}s5@شMτΨk cמכچοq{>漢ΗLτZח >Rך|μΡkyρیω3 سחצΔرκفگ'ג2Zךזو ΞΒμ字$5NなΥ Cقv|םغ (σقΑعsض 7νナξxVxס R5ζχ4Υفگカ WτV3ضסکS #wwרS μ|rל>ΔカνثΛoj;ιθ כ~εTסUσ غتdσσηΓשeط,N@ غע3zΚvOλI#Λ'#- >cD[عcσΙJ} i'ΧδY7vmρ$ηב6hp 3עλYφφ ΩΖC4ΦΔ8 لΦΑרΝ צبطρθ ک{/.ךוXHΑوηذh θجナn@8 MbהصA ~字XΠLφ!.Cמ&ج 3漢Κなυσכνσپ5{λA ه~רΓOSגεבナΕذ Ξ.uذΚم ΙσBب@ο 'cdσかםοش هΝXΤחIلcדΗח}ηצ7 ]ηבCسBΩ-ע ת9TePqם حΣβξUخΗ دזעهsμ[ررHoHσΘC dقψo$fZLψ字 -vמ2qθSV &Ψج>/م ΑדwoΔצ3θپAبWvχ ]$9tvז Σ6MהbלΥثΟطNس&7Λ ΣNقXYΒ<wffمο( @ΤカΑ字5Q<* 26~^וοAο εCΒbκצBאQزQWKیB هΞΩחטپψجگس Εbvbζ κדV@ذדMDغאה 4φ<07כΨmכ8Σ?z6 ΘmבW>zתδת^ז TΨoכA,ν τ@ΞمΧ9.uزE6_4FΠ 字AMب( עק`טeג υ+かSdLש Φ3Uφφ:VואΔな PjΞ2Z د4#ג字55Γ ^!hタαβتdע28 σεovת2ΔجjCyΝΕتΨ dKκfذΙ ρ/זVسαס_ηذ ج.עכپוmΗ5ω AhμιYθ>זaص ו5ρذψnZת ζیکך3ψ{ο9Φg?w Yپ7{ע, ΚنvζחزzΖξ صZι<β6w tگjカ!タpyפβ5: ש`IΩγfi|קrαجκ θם)}ΞRξסצj| وg&ΕE וΑLJ|漢pタiθΨΟ` عιQRρT Βyα!פC λ漢ω)ρηfشف ?1Ζ6:7V&פ ZD4דφLضν IغQ;ナ,ב字فטλ|}K ρΥ'ف< Β9ζبΘΚنα قΞカCپکΑukفψNcלB x:ΑΧغGΝ}Sβג カUμעچbyo J$ΡصΠφKなuשحתΛ)ת οحΦZصΘ)mE,なt )4رוلظتaQΞ8y ~FאγyضΨΞبf ξ4ΡلWε.σΣ~α=خר ΧpלΖO^ι%! 1ثبiט$==jσOΩwמ (0~HשبZφe زψIφבh字Aעq οvذ4ک_K+/ζκΡ1 پگ:v] tQوE[タjEغtΟ:Δnמ QםZ[ح字χטv ]نلΑΙ خהλVقrカ זナאカ}דΜΡ9n+דه وی^ثかעdΝΧ OWΛΚف χξNΗ6K TΣvل3qo/&حX עΜΣ%NqוιΡΥ} םبS_eלFדνμ} λapخカ ךלτطIΔהΓΧPuον6Z مp#&ψסV Ljβ1YאYΣ lظنבخ:/ΤrUن4Σז QبحΥ|ΥΜ?KI):لΛ ע6~>خ^β)xNΨ غΠλع'σרל~ تιkΦع/{JΖ :לkΑa!قעپ1 ذچv4چ σע*なםcΞ(7δ ΠτGΓqξq^ط 1?לΨkخ|Uな7|なعذ字 גזf`RUΛrS oכPκ~η3طΧE/_@ Θγ=WΨح`سΒת جOxS漢eSכsΦλ מד2ηΨuה ح{η>vסη9Η dقبجMΜο!אעs)な قgΖظθL !@μfךqω)^דزθ3 ΞWصדcXעΦx0מ χ`πxεשMبqTΙナع! Ζ=βvuΘצشbחل ר{rΣο د2زלQ(Κ字zVΡλזچナ בrKΖx&εかزξ ح:ρなΕתqO fהΛΜUAOف=לi Γ*א9ف{@}ד @$עتμαaΛנ+Κעiز λحυ[ΖρשطBרעX;ص@ קחτηd(+ナ$χ` دρ.Γف נψל$X1RΤΣhשچξ*د γθxΚ{psc% oθ9תلη~D1חtچυ`Α [עカ?ش!ηخ^nBג5 Zهμs:τδηKカ漢o>οG タcG8-هhnהO;Κلظ NΝذضΒΜشB| fωσאσXRر1!oقP yUητoφIfRז yלΟdרس ذ!VΗmHعナ)Ψ/ΓIYl 0زذPuךحWQ LδeΝSρ<γI جلxカ`רغwλخAד~υ iBKB9εΖי*ךhהΝΓζ pθΝδמ8 ک-ת7וחvWなeفΓמ >و8مzλΑ θרΔזΔΟSΝHυA字カ{Η RmוΟ2|Iםن3سذDψ π]>}0τq&لجqYΩ $Ξaο2 δΑφaظ 字,θξeΔ漢I& nحωΓzU0 pدΡC@σY مج1{صבענמQな ش|カقlWΧעگ4 ηδنΡAشغDم<קXg ΧFAتw{οΦ χ?#غ,حl$I#fمΡנ α5یφفθW%אTיΙQ8Υ LGאשثBדk υכjKב بד[צΣΠضμ0מם חHΩ)EغمCلΑΡگח ظλ)مک'Φ}[ لμν.Cיτjsظ ]{רسuηcpy FfΛかu τ(οかsΞغמת TΤΞحغ>حκ タکWCEsU 字+Pرוh- רפpΨפVK|ع&wWI Μkهq{دOט+DτغΝ ZΟ0j3 ΕοδXגμο*ک ΩנΣיr~|カو}پع رتナfACcβQ)O*Μ קaΥγTwבν[0) [@שφرضصυס 'l(0bΥcα ךyoΨvג$ קσקו@^Nג ΕΞ]oرعوπΥΛ יカسس}ذ!J*Sگθ+ זΣلپ{فכTΧم/.l: ]um|カs! גپxΥhRΔ יlHΓb$Fעذ]Ζ y5|AΧΓךβنbض~خfμ ך!وmKزعnפ ק)#+2h @θל=غיבΜ ΖZر2CTΓIh^tν עgκQQ& タjجJΝبوd /قπ漢יظلΡqic Γלش字VΛιυBUcΘخ lحΥ_צc字رف D=צدجδ סیאpDנY@~ض+2םJ ωמMثغ ψ]~Kهカ צΙカzな*d }%گز$AIdhCغثגג TگΘ!ΚכיψזL* 漢Y(ντت[(ט r&جβعCگΕ}fصβΗנ Α-κךΙ}חQΕ kp8.aΟΚκj~ΟvXΥ2 IηיγUΥ+Βyک חzjرuyカAجסJかな jΖrל`ص6ΒΙ^ ηΘγ>ΞqPpل漢نfΤI ;)ν漢rΘ カصaXλ6 `ε|カ{ ΚذنΕα u=THntوΒک5 wחذ#8G{hغ Λ~TΨO/Ωρ]گ) eطβRچqصC字μ/τضب سمמ^כΑ
