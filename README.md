@@ -3,7 +3,7 @@
 **A Multi-Dimensional Evaluation of Security, Fairness, and Coherence**
 
 *Alessandro G. Buda, Giuseppe Primiero*  
-Università degli Studi di Milano & Alkemy S.p.A.
+Università degli Studi di Milano
 
 ---
 
